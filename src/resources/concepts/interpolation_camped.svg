@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3288"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="interpolation_camped.svg">
+  <defs
+     id="defs3290" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6180625"
+     inkscape:cx="295.3787"
+     inkscape:cy="478.78956"
+     inkscape:document-units="px"
+     inkscape:current-layer="g7137"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1402"
+     inkscape:window-height="856"
+     inkscape:window-x="38"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <g
+       style="display:inline"
+       id="g7137"
+       transform="matrix(41.666667,0,0,41.666667,-5546.0943,-30849.806)"
+       inkscape:export-filename="/Users/chyu/Desktop/fis_interpolations.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7070"
+         width="24"
+         height="24"
+         x="133.10626"
+         y="741.65204" />
+      <g
+         transform="matrix(0.39015251,0,0,0.39015251,-507.56339,405.90859)"
+         id="g9705"
+         style="fill:#555753;stroke:#2e3436;stroke-width:1.92232525;stroke-opacity:1">
+        <path
+           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.56310034;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+           d="M 499.75,61 A 19.135787,19.135787 0 0 0 486.5,66.59375 L 66.53125,486.5625 a 19.135787,19.135787 0 0 0 0,27.0625 L 486.1875,933.28125 a 19.135787,19.135787 0 0 0 27.03125,0 l 420,-419.96875 a 19.135787,19.135787 0 0 0 2.625,-2.65625 19.135787,19.135787 0 0 0 -2.625,-24.40625 L 513.5625,66.59375 A 19.135787,19.135787 0 0 0 499.75,61 z m 0.25,46.21875 0,785.1875 -0.28125,0.28125 L 107.09375,500.09375 500,107.21875 z"
+           transform="matrix(0.06697808,0,0,0.06697808,1639.3687,857.81226)"
+           id="rect6584"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="744.052"
+         x="135.50626"
+         height="19.200001"
+         width="19.200001"
+         id="rect2987"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect2989"
+         width="21.6"
+         height="21.6"
+         x="134.30626"
+         y="742.85205" />
+    </g>
+  </g>
+</svg>

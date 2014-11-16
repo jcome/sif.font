@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3288"
+   version="1.1"
+   inkscape:version="0.48.2 r9819">
+  <defs
+     id="defs3290" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.15663009"
+     inkscape:cx="42.22341"
+     inkscape:cy="535.91251"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1218"
+     inkscape:window-height="755"
+     inkscape:window-x="58"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3293">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path10103"
+       style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
+       d="m 500.1241,296.54484 c 53.6215,0 95.2201,40.6096 95.2201,94.3848 0,53.7747 -42.0989,96.0552 -95.2201,96.0552 -53.121,0 -95.2196,-42.2805 -95.2196,-96.0552 0,-53.7752 41.5982,-94.3848 95.2196,-94.3848 z m 0.4423,-179.21216 c -227.0072,0 -309.2788,156.79736 -309.2788,294.55116 0,234.7065 167.0923,380.2508 309.2788,575.50784 142.1869,-195.25704 308.146,-340.80134 308.146,-575.50784 0,-137.7538 -81.1387,-294.55116 -308.146,-294.55116 z m 0,114.42176 c 90.243,0 159.7375,68.1035 159.7375,158.6045 0,90.5011 -70.3367,160.8704 -159.7375,160.8704 -89.4007,0 -159.7374,-70.3693 -159.7374,-160.8704 0,-90.501 69.4945,-158.6045 159.7374,-158.6045 z" />
+  </g>
+</svg>
