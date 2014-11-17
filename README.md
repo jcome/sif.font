@@ -1,6 +1,6 @@
 SIF: Synfig Icon Font
 ----
-SIF is created by intending to improve [Synfig Studio](http://synfig.org) UI.
+SIF Is a Font, not a sif document. It is created by intending to improve [Synfig Studio](http://synfig.org) UI.
 
 
 Using SIF font
@@ -15,7 +15,9 @@ What's new in SIF font
 
 
 #### Version 0.0.0
-
+- Set up [a template](./resources/sifont-template.svg) by defining basic rule of icon design.
+- Put all design ideas (icon concepts) into a subfolder __resources__.
+- Set up [font matrix](./font-matrix.md).
 
 
 License

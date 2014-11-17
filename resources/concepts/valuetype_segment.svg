@@ -13,7 +13,11 @@
    height="1000"
    id="svg3288"
    version="1.1"
-   inkscape:version="0.48.2 r9819">
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="valuetype_segment.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/valuetype_segment.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3290" />
   <sodipodi:namedview
@@ -24,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.2215084"
-     inkscape:cx="42.22341"
+     inkscape:cx="-524.34653"
      inkscape:cy="535.91251"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,7 +57,7 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <g
-       transform="matrix(33.72652,0,0,33.72652,17830.184,-19269.425)"
+       transform="matrix(35.973582,0,0,35.973582,18984.825,-20590.07)"
        id="g7600">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.8732338;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
