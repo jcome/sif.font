@@ -1,7 +1,7 @@
 SIF Icon Font Matrix
 ----
 
-Font Code    |Font Glyph     |Icon Name    |Icon Number
+ Code        |Glyph          |Icon         |Number
 ------------ | ------------- | ------------| ------------|
 0xe000 |![alt](./output/png-12px/interpolator-camped.png) Interplator - Camped |Interpolation - Camped | 001 
 0xe001 |![alt](./output/png-12px/interpolator-constant.png) Interplator - Constant  |Interpolation - Constant |002
