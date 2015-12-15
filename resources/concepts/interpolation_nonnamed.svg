@@ -13,7 +13,7 @@
    height="1000"
    id="svg3288"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="interpolation_nonnamed.svg">
   <defs
      id="defs3290" />
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.319"
-     inkscape:cx="-258.48704"
-     inkscape:cy="474.34382"
+     inkscape:cx="551.85779"
+     inkscape:cy="364.62595"
      inkscape:document-units="px"
      inkscape:current-layer="g7131"
      showgrid="false"
      showguides="false"
      inkscape:window-width="1402"
-     inkscape:window-height="856"
+     inkscape:window-height="855"
      inkscape:window-x="56"
      inkscape:window-y="16"
      inkscape:window-maximized="0" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,38 +60,16 @@
        inkscape:export-filename="/Users/chyu/Desktop/fis_interpolations.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <rect
-         y="741.65204"
-         x="109.10626"
-         height="24"
-         width="24"
-         id="rect7068"
-         style="fill:none;stroke:none" />
       <g
          transform="matrix(0.40944606,0,0,0.40944606,-526.48327,388.70965)"
          id="g9701"
          style="fill:#555753;stroke:#2e3436;stroke-width:1.92232525;stroke-opacity:1">
         <path
            style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 354,128.15625 a 19.135787,19.135787 0 0 0 -13.46875,5.3125 l -206.625,206.8125 a 19.135787,19.135787 0 0 0 -5.625,13.46875 L 127.875,645.875 a 19.135787,19.135787 0 0 0 5.625,13.5 l 206.75,206.90625 a 19.135787,19.135787 0 0 0 13.46875,5.65625 l 292.1875,0.0937 a 19.135787,19.135787 0 0 0 13.5,-5.625 l 206.875,-206.46875 a 19.135787,19.135787 0 0 0 5.625,-13.46875 L 872.0625,354 a 19.135787,19.135787 0 0 0 -5.625,-13.5 l -206.5,-206.5625 a 19.135787,19.135787 0 0 0 -12,-5.75 19.135787,19.135787 0 0 0 -1.5,0.125 L 354,128.15625 z m 8,38.375 138,0.0625 0,667 -137.875,0 -195.5,-195.625 L 166.4375,361.4375 362,166.53125 z"
-           id="path9356"
-           inkscape:connector-curvature="0"
-           transform="matrix(0.06697808,0,0,0.06697808,1548.1366,857.81231)" />
+           d="M 333.20703 75.001953 C 327.4799 74.931679 321.95344 77.111224 317.81641 81.072266 L 81.712891 317.38867 C 77.621175 321.46806 75.312077 327.0015 75.287109 332.7793 L 74.822266 666.58008 C 74.837806 672.37026 77.149565 677.91772 81.25 682.00586 L 317.49609 918.42969 C 321.56964 922.53451 327.10185 924.85814 332.88477 924.89258 L 666.75781 925 C 672.54799 924.98446 678.09545 922.6727 682.18359 918.57227 L 918.57227 682.64844 C 922.66398 678.56905 924.97503 673.03561 925 667.25781 L 925.17773 333.06445 C 925.16219 327.27427 922.85043 321.72681 918.75 317.63867 L 682.79102 81.607422 C 679.15352 77.847512 674.28759 75.516377 669.07812 75.037109 L 333.20703 75.001953 z M 342.34766 118.85156 L 500.03516 118.92188 L 500.03516 881.07812 L 342.49023 881.07812 L 119.09961 657.54492 L 118.88672 341.5625 L 342.34766 118.85156 z "
+           transform="matrix(0.05861578,0,0,0.05861578,1552.3157,861.9997)"
+           id="path9356" />
       </g>
-      <rect
-         style="fill:none;stroke:none"
-         id="rect3236"
-         width="21.6"
-         height="21.6"
-         x="110.30626"
-         y="742.85205" />
-      <rect
-         y="744.052"
-         x="111.50626"
-         height="19.200001"
-         width="19.200001"
-         id="rect3238"
-         style="fill:none;stroke:none" />
     </g>
   </g>
 </svg>

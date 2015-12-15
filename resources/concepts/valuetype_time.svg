@@ -13,7 +13,7 @@
    height="1000"
    id="svg3288"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="valuetype_time.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/valuetype_time.png"
    inkscape:export-xdpi="2.1600001"
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.2215084"
-     inkscape:cx="-524.34653"
-     inkscape:cy="535.91251"
+     inkscape:cx="-300.87871"
+     inkscape:cy="332.75994"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,16 +60,10 @@
        id="g7831"
        transform="matrix(38.037887,0,0,38.037887,-20308.669,-22298.759)">
       <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
          id="path7827"
-         d="m 547.07307,594.97705 -0.0589,5.69754 -2.49793,2.91686"
-         style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path17558"
-         d="m 547.05114,588.91602 c -6.51441,0 -11.83031,5.3159 -11.83031,11.8303 0,6.51441 5.3159,11.83031 11.83031,11.83031 6.5144,0 11.83031,-5.3159 11.83031,-11.83031 0,-6.5144 -5.31591,-11.8303 -11.83031,-11.8303 z m 0,3.50472 c 4.62287,0 8.32558,3.70272 8.32558,8.32558 0,4.62287 -3.70271,8.34037 -8.32558,8.34037 -4.62287,0 -8.34037,-3.7175 -8.34037,-8.34037 0,-4.62286 3.7175,-8.32558 8.34037,-8.32558 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.39625692;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+         transform="matrix(0.02628958,0,0,0.02628958,533.90634,587.60155)"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="M 500,50 C 252.20561,50 50,252.20599 50,500 50,747.79439 252.20561,950 500,950 747.79401,950 950,747.79439 950,500 950,252.20599 747.79401,50 500,50 Z m 0,133.3125 C 675.84421,183.3125 816.6875,324.15617 816.6875,500 816.6875,675.84421 675.84421,817.25 500,817.25 324.15579,817.25 182.75,675.84421 182.75,500 182.75,324.15617 324.15579,183.3125 500,183.3125 Z m 0.58203,39.34375 a 57.062536,57.062536 0 0 0 -56.83398,57.2793 l -2.00586,195.98437 -81.49805,95.16797 a 57.064158,57.064158 0 1 0 86.69922,74.21875 l 95.01953,-110.91797 a 57.062536,57.062536 0 0 0 13.66992,-36.55273 L 557.86328,281.125 a 57.062536,57.062536 0 0 0 -57.28125,-58.46875 z" />
     </g>
   </g>
 </svg>

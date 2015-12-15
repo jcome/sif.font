@@ -13,7 +13,7 @@
    height="1000"
    id="svg3288"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="interpolation_linear.svg">
   <defs
      id="defs3290" />
@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.319"
-     inkscape:cx="-199.53141"
-     inkscape:cy="543.30934"
+     inkscape:cx="291.0642"
+     inkscape:cy="511.96138"
      inkscape:document-units="px"
      inkscape:current-layer="g7108"
      showgrid="false"
      showguides="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,13 +60,6 @@
        inkscape:export-filename="/Users/chyu/Desktop/fis_interpolations.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect7047"
-         width="24.095253"
-         height="24"
-         x="39.898869"
-         y="741.65204" />
       <g
          transform="matrix(0.39820741,0,0,0.40157473,-468.88086,395.7292)"
          id="g9685"
@@ -78,20 +71,6 @@
            id="path12446"
            inkscape:connector-curvature="0" />
       </g>
-      <rect
-         y="742.85205"
-         x="41.10363"
-         height="21.6"
-         width="21.685728"
-         id="rect3169"
-         style="fill:none;stroke:none" />
-      <rect
-         style="fill:none;stroke:none"
-         id="rect3308"
-         width="19.276203"
-         height="19.200001"
-         x="42.308395"
-         y="744.052" />
     </g>
   </g>
 </svg>

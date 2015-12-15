@@ -13,7 +13,7 @@
    height="1000"
    id="svg3288"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="interpolation_TCB.svg">
   <defs
      id="defs3290" />
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.319"
-     inkscape:cx="1024.9107"
+     inkscape:cx="515.50631"
      inkscape:cy="474.34382"
      inkscape:document-units="px"
-     inkscape:current-layer="g9636"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:window-width="1402"
-     inkscape:window-height="856"
+     inkscape:window-height="855"
      inkscape:window-x="172"
      inkscape:window-y="31"
      inkscape:window-maximized="0" />
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -88,26 +88,5 @@
         </g>
       </g>
     </g>
-    <rect
-       style="fill:none;stroke:none;display:inline"
-       id="rect7070"
-       width="1000"
-       height="1000"
-       x="0"
-       y="52.362183" />
-    <rect
-       y="152.36215"
-       x="99.999969"
-       height="800.00006"
-       width="800.00006"
-       id="rect2987"
-       style="fill:none;stroke:none;display:inline" />
-    <rect
-       style="fill:none;stroke:none;display:inline"
-       id="rect2989"
-       width="900"
-       height="900"
-       x="50"
-       y="102.36218" />
   </g>
 </svg>
