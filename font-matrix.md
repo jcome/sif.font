@@ -27,14 +27,14 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe018 |![alt Switch](./output/png-24px/glyph/switch.png) |value-type-bool |3012
 0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |value-type-gradient |3013
  | | __Duck Types__ |
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-position |4001
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-vertex |4002
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-tangent |4003
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-radius |4004
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-width |4005
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-angle |4006
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-scale |4007
-0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |dock-skew |4008
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-position.png) |duck-position |4001
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-vertex.png) |duck-vertex |4002
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-tangent.png) |duck-tangent |4003
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-radius.png) |duck-radius |4004
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-width.png) |duck-width |4005
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-angle.png) |duck-angle |4006
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-scale.png) |duck-scale |4007
+0xe019 |![alt Linear Gradient](./output/png-24px/glyph/duck-skew.png) |duck-skew |4008
  | | __Layers__ |
 0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |layer-blur-blur |5001
 0xe019 |![alt Linear Gradient](./output/png-24px/glyph/linear-gradient.png) |layer-blur-motion |5002
