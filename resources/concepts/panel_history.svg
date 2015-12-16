@@ -13,7 +13,7 @@
    height="1000"
    id="svg3278"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="panel_history.svg">
   <defs
      id="defs3280" />
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28337563"
-     inkscape:cx="90.632509"
-     inkscape:cy="491.42857"
+     inkscape:zoom="0.64183761"
+     inkscape:cx="499.99997"
+     inkscape:cy="499.99982"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4729"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,29 +59,14 @@
        inkscape:export-filename="/Users/chyu/Desktop/panels.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <rect
-         y="349.2485"
-         x="-169.77841"
-         height="24"
-         width="24"
-         id="rect4725"
-         style="fill:none;stroke:none" />
       <g
          transform="translate(167.80493,-103.44553)"
          id="g4717">
         <path
-           sodipodi:nodetypes="ccccccc"
-           inkscape:connector-curvature="0"
-           id="path3955"
-           d="m -330.03887,453.85341 0,4.38356 c 12.26707,0.20978 12.26707,17.14657 -1.03959,17.29923 10.10244,-4.1036 6.89283,-11.42949 1.03959,-10.97741 l 0,4.38356 -7.54447,-7.54447 z"
-           style="fill:#000000;fill-rule:evenodd;stroke:none" />
-        <path
-           style="fill:#000000;fill-rule:evenodd;stroke:none"
-           d="m 338.75,264.28125 -4.0625,4.0625 c 3.6428,1.12017 5.9245,3.87087 6.5625,6.96875 4.03345,1.43457 5.00241,7.18989 -3.53125,10.65625 13.30666,-0.15266 13.29832,-17.10272 1.03125,-17.3125 z"
-           transform="translate(-661.41877,189.57128)"
            id="path6458"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccc" />
+           transform="translate(-661.41877,189.57128)"
+           style="fill:#000000;fill-rule:evenodd;stroke:none"
+           d="m 338.75,264.28125 -4.0625,4.0625 c 3.6428,1.12017 5.9245,3.87087 6.5625,6.96875 4.03345,1.43457 5.00241,7.18989 -3.53125,10.65625 13.30666,-0.15266 13.29832,-17.10272 1.03125,-17.3125 z m -7.3701,8.8e-4 0,4.38356 c 12.26707,0.20978 12.26707,17.14657 -1.03959,17.29923 10.10244,-4.1036 6.89283,-11.42949 1.03959,-10.97741 l 0,4.38356 -7.54447,-7.54447 z" />
       </g>
     </g>
   </g>

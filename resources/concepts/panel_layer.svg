@@ -13,8 +13,8 @@
    height="1000"
    id="svg3278"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="panel_keyframe.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="panel_layer.svg">
   <defs
      id="defs3280" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28337563"
-     inkscape:cx="-294.38015"
-     inkscape:cy="491.42857"
+     inkscape:zoom="0.64183758"
+     inkscape:cx="499.99998"
+     inkscape:cy="499.9997"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,32 +59,28 @@
        inkscape:export-filename="/Users/chyu/Desktop/panels.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
-      <rect
-         y="481.78107"
-         x="-197.03809"
-         height="22.836334"
-         width="24.290899"
-         id="rect5608"
-         style="fill:none;stroke:none" />
       <g
          id="g5652"
          style="fill:#555753">
         <path
            style="fill:#000000;fill-rule:evenodd;stroke:none"
-           d="m -174.21875,491.625 -0.25,0.46875 -3.4375,6.28125 -0.25,0.5 -0.59375,0 -16.03125,0 -0.53125,0 -1.84375,3.40625 18.40625,0 5.78125,-10.65625 -1.25,0 z"
+           d="m -174.21875,491.625 -3.9375,7.25 -17.15625,0 -1.84375,3.40625 18.40625,0 5.78125,-10.65625 z"
            id="rect5581"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
         <path
            style="fill:#000000;fill-rule:evenodd;stroke:none"
-           d="m -174.25,487.28125 -0.25,0.46875 -3.40625,6.25 -0.25,0.53125 -0.59375,0 -16.03125,0 -0.53125,0 -1.84375,3.375 18.40625,0 5.78125,-10.625 -1.28125,0 z"
+           d="m -174.25,487.28125 -3.90625,7.25 -17.15625,0 -1.84375,3.375 18.40625,0 5.78125,-10.625 z"
            id="rect5592"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
         <path
            transform="matrix(1,0,-0.47672063,0.87905486,0,0)"
            style="fill:#000000;fill-rule:evenodd;stroke:none"
            d="m 70.514427,549.35535 18.405365,0 0,12.10714 -18.405365,0 z"
            id="rect5594"
-           inkscape:connector-curvature="0" />
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
       </g>
     </g>
   </g>
