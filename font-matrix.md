@@ -1,5 +1,5 @@
-SIF is Font 
-----
+# SIF is Font
+
 
 Code         |Glyph            |Icon Name    |Number       |Icon
 ------------ | :-------------: | ------------| ------------| -------------|
@@ -10,22 +10,22 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe003 |![alt Interplator - Constant](./output/png-24px/glyph/interpolator-constant.png) |interpolation-constant |2002
 0xe004 |![alt Interplator - Ease](./output/png-24px/glyph/interpolator-ease.png) |interpolation-ease |2003
 0xe005 |![alt Interplator - Nonnamed](./output/png-24px/glyph/interpolator-nonnamed.png) |interpolation-nonnamed |2004
-0xe006 |![alt Interplator - TCB](./output/png-24px/glyph/interpolator-TCB.png) |interpolation-TCB |2005
+0xe006 |![alt Interplator - TCB](./output/png-24px/glyph/interpolator-TCB.png) |interpolation-tcb |2005
 0xe000 |![alt Standing Figure](./output/png-24px/glyph/still-figure.png) |interpolation-static |2006
  xxxxxx| | __VALUES__ | xxxx
-0xe007 |![alt Angle](./output/png-24px/glyph/angle.png) |value-type-angle |3001
-0xe008 |![alt Celluloid](./output/png-24px/glyph/celluloid.png) |value-type-canvas |3002
-0xe009 |![alt Clock](./output/png-24px/glyph/clock.png) |value-type-time |3003
-0xe010 |![alt Digital](./output/png-24px/glyph/digital.png) |value-type-tnteger |3004
-0xe011 |![alt Double Quotes](./output/png-24px/glyph/double-quotes.png) |value-type-string |3005
-0xe012 |![alt List](./output/png-24px/glyph/list.png) |value-type-list |3006
-0xe013 |![alt Map Pin](./output/png-24px/glyph/map-pin.png) |value-type-vector |3007
-0xe014 |![alt Paint Pallet](./output/png-24px/glyph/paint-pallet.png) |value-type-color |3008
-0xe015 |![alt Pi](./output/png-24px/glyph/pi.png) |value-type-real |3009
-0xe016 |![alt Segment](./output/png-24px/glyph/segment.png) |value-type-segment |3010
-0xe017 |![alt Spline Point](./output/png-24px/glyph/spline-point.png) |value-type-splinepoint |3011
-0xe018 |![alt Switch](./output/png-24px/glyph/switch.png) |value-type-bool |3012
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |value-type-gradient |3013
+0xe007 |![alt Angle](./output/png-24px/glyph/angle.png) |value-angle |3001
+0xe008 |![alt Celluloid](./output/png-24px/glyph/celluloid.png) |value-canvas |3002
+0xe009 |![alt Clock](./output/png-24px/glyph/clock.png) |value-time |3003
+0xe010 |![alt Digital](./output/png-24px/glyph/digital.png) |value-integer |3004
+0xe011 |![alt Double Quotes](./output/png-24px/glyph/double-quotes.png) |value-string |3005
+0xe012 |![alt List](./output/png-24px/glyph/list.png) |value-list |3006
+0xe013 |![alt Map Pin](./output/png-24px/glyph/map-pin.png) |value-vector |3007
+0xe014 |![alt Paint Pallet](./output/png-24px/glyph/paint-pallet.png) |value-color |3008
+0xe015 |![alt Pi](./output/png-24px/glyph/pi.png) |value-real |3009
+0xe016 |![alt Segment](./output/png-24px/glyph/segment.png) |value-segment |3010
+0xe017 |![alt Spline Point](./output/png-24px/glyph/spline-point.png) |value-splinepoint |3011
+0xe018 |![alt Switch](./output/png-24px/glyph/switch.png) |value-bool |3012
+0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |value-gradient |3013
  xxxxxx | | __DUCKS__ | xxxx
 0xe019 |![](./output/png-24px/glyph/duck-position.png) |duck-position |4001
 0xe019 |![](./output/png-24px/glyph/duck-vertex.png) |duck-vertex |4002
