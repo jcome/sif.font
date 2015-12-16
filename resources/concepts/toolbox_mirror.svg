@@ -13,8 +13,11 @@
    height="1000"
    id="svg3446"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="toolbox_circle.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="toolbox_mirror.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/toolbox_mirror.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3448" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="335.2343"
-     inkscape:cy="586.94702"
+     inkscape:zoom="0.49620223"
+     inkscape:cx="499.99952"
+     inkscape:cy="499.99971"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,32 +57,9 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)">
-    <g
-       style="display:inline"
-       id="g16269"
-       transform="matrix(41.649122,0,0,41.649122,16406.473,-11438.178)"
-       inkscape:export-filename="/Users/chyu/Desktop/tools-0.png"
-       inkscape:export-xdpi="74.745888"
-       inkscape:export-ydpi="74.745888">
-      <rect
-         y="275.8942"
-         x="-393.91602"
-         height="24"
-         width="24"
-         id="rect16267"
-         style="fill:none;stroke:none" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:none"
-         d="M 113.84375,0.65625 103.125,3 l 0,18 10.71875,2.34375 0,-22.6875 z M 108.0625,4.875 112.15625,12 l -4.09375,7.1875 0,-3.84375 -3.5625,-0.5 0,-5.6875 3.5625,-0.5 0,-3.78125 z"
-         transform="translate(-483.76009,275.89419)"
-         id="rect16245"
-         inkscape:connector-curvature="0" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:none"
-         d="m 89.84375,3 0,18 11.84375,0 0,-18 -11.84375,0 z m 5.78125,3.3125 0,2.875 4.46875,0 0,5.625 -4.46875,0 0,2.875 -4,-5.6875 4,-5.6875 z"
-         transform="translate(-483.76009,275.89419)"
-         id="path19613"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       id="path19613"
+       style="fill:#000000;fill-rule:evenodd;stroke:none"
+       d="m 0.20330469,177.52014 0,749.6842 493.28178531,0 0,-749.6842 -493.28178531,0 z M 240.98729,315.48286 l 0,119.74123 186.11952,0 0,234.27631 -186.11952,0 0,119.74122 L 74.390803,552.36224 240.98729,315.48286 Z M 999.78223,79.905014 553.35571,177.52014 l 0,749.6842 446.42652,97.61516 0,-944.914486 z M 758.99825,255.61225 929.49934,552.36224 758.99825,851.71531 l 0,-160.08882 -148.375,-20.82456 0,-236.87938 148.375,-20.82456 0,-157.48574 z" />
   </g>
 </svg>

@@ -13,8 +13,11 @@
    height="1000"
    id="svg3446"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="toolbox_star.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="toolbox_rectangle.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/toolbox_rectangle.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3448" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="335.2343"
-     inkscape:cy="586.94702"
+     inkscape:zoom="0.49620894"
+     inkscape:cx="500.00001"
+     inkscape:cy="500.00025"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,26 +57,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-52.362183)">
-    <g
-       style="display:inline"
-       id="g4766"
-       transform="matrix(-41.649122,0,0,41.649122,-9739.2564,-16857.632)"
-       inkscape:export-filename="/Users/chyu/Desktop/tools-0.png"
-       inkscape:export-xdpi="74.745888"
-       inkscape:export-ydpi="74.745888">
-      <rect
-         style="fill:none;stroke:none"
-         id="rect4752"
-         width="24"
-         height="24"
-         x="-257.84567"
-         y="406.01587" />
-      <path
-         style="fill:#000000;fill-rule:evenodd;stroke:none"
-         d="m 38.71875,28.5 0,20 20,0 0,-20 -20,0 z m 3,3.03125 14,0 0,14 -14,0 0,-14 z"
-         transform="matrix(-1,0,0,1,-197.10701,379.51581)"
-         id="rect4891"
-         inkscape:connector-curvature="0" />
-    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4891"
+       d="m 82.679442,135.86828 0,832.98244 832.982438,0 0,-832.98244 -832.982438,0 z m 124.947368,126.2489 583.08771,0 0,583.08771 -583.08771,0 0,-583.08771 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:none" />
   </g>
 </svg>
