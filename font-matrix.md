@@ -82,11 +82,12 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/layer_text.png) |layer-other-text |5044
 0xe019 |![alt missing](./output/png-24px/glyph/layer_timeloop.png) |layer-other-timeloop |5045
 0xe019 |![alt missing](./output/png-24px/glyph/layer_xorpattern.png) |layer-other-xorpattern |5046
-0xe019 |![alt missing](./output/png-24px/glyph/layer_bevel.png) |layer-stylize-bevel |5047
-0xe019 |![alt missing](./output/png-24px/glyph/layer_shade.png) |layer-stylize-shade |5048
-0xe019 |![alt missing](./output/png-24px/glyph/layer_rotate.png) |layer-transform-rotate |5049
-0xe019 |![alt missing](./output/png-24px/glyph/layer_scale.png) |layer-transform-scale |5050
-0xe019 |![alt missing](./output/png-24px/glyph/layer_move.png) |layer-transform-translate |5051
+0xe019 |![alt missing](./output/png-24px/glyph/layer_image.png) |layer-other-image |5057
+0xe019 |![alt missing](./output/png-24px/glyph/layer_bevel.png) |layer-stylize-bevel |5048
+0xe019 |![alt missing](./output/png-24px/glyph/layer_shade.png) |layer-stylize-shade |5049
+0xe019 |![alt missing](./output/png-24px/glyph/layer_rotate.png) |layer-transform-rotate |5050
+0xe019 |![alt missing](./output/png-24px/glyph/layer_scale.png) |layer-transform-scale |5051
+0xe019 |![alt missing](./output/png-24px/glyph/layer_move.png) |layer-transform-translate |5052
  | | __Toolbox__ |
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |toolbox-brush |6001
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |toolbox-circle |6002
