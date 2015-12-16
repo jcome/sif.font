@@ -3,7 +3,7 @@ SIFont Icons
 
 Code         |Glyph            |Icon Name    |Number       |Icon
 ------------ | :-------------: | ------------| ------------| -------------|
-0xe000|![alt Standing Figure](./resources/concepts/interpolation_static.svg)| animation-mode-off |1000
+0xe000|![alt Standing Figure](./output/png-24px/glyph/still-figure.png)| animation-mode-off |1000
 0xe001 |![alt Warkling Figure](./output/png-24px/glyph/walking-figure.png) |animation-mode-on |1001
  | | __Interpolation__ |
 0xe002 |![alt Interplator - Camped](./output/png-24px/glyph/interpolator-camped.png) |interpolation-camped | 2001 
@@ -110,21 +110,21 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |toolbox-zoom |6019
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |toolbox-cut |6020
  | | __Panels__ |
-0xe019 |![alt missing](./resources/concepts/panel_toolbox.svg) |panel-toolbox |7001
-0xe019 |![alt missing](./resources/concepts/panel_parameter.svg) |panel-parameters |7002
-0xe019 |![alt missing](./resources/concepts/panel_keyframe.svg) |panel-keyframes |7003
-0xe019 |![alt missing](./resources/concepts/panel_timetrack.svg) |panel-timetrack |7004
-0xe019 |![alt missing](./resources/concepts/panel_graph.svg) |panel-graphs |7005
-0xe019 |![alt missing](./resources/concepts/panel_library.svg) |panel-library |7006
-0xe019 |![alt missing](./resources/concepts/panel_metadata.svg) |panel-metadata |7007
-0xe019 |![alt missing](./resources/concepts/panel_canvas.svg) |panel-canvases |7008
-0xe019 |![alt missing](./resources/concepts/panel_palette.svg) |panel-palette |7009
-0xe019 |![alt missing](./resources/concepts/panel_navigator.svg) |panel-navigator |7010
-0xe019 |![alt missing](./resources/concepts/panel_info.svg) |panel-info |7011
-0xe019 |![alt missing](./resources/concepts/panel_options.svg) |panel-tooloptions |7012
-0xe019 |![alt missing](./resources/concepts/panel_history.svg) |panel-history |7013
-0xe019 |![alt missing](./resources/concepts/panel_layer.svg) |panel-layers |7014
-0xe019 |![alt missing](./resources/concepts/panel_layerset.svg) |panel-layersets |7015
+0xe019 |![alt missing](./output/png-24px/glyph/panel_toolbopngx.png) |panel-toolbox |7001
+0xe019 |![alt missing](./output/png-24px/glyph/panel_parameter.png) |panel-parameters |7002
+0xe019 |![alt missing](./output/png-24px/glyph/panel_keyframe.png) |panel-keyframes |7003
+0xe019 |![alt missing](./output/png-24px/glyph/panel_timetrack.png) |panel-timetrack |7004
+0xe019 |![alt missing](./output/png-24px/glyph/panel_graph.png) |panel-graphs |7005
+0xe019 |![alt missing](./output/png-24px/glyph/panel_library.png) |panel-library |7006
+0xe019 |![alt missing](./output/png-24px/glyph/panel_metadata.png) |panel-metadata |7007
+0xe019 |![alt missing](./output/png-24px/glyph/panel_canvas.png) |panel-canvases |7008
+0xe019 |![alt missing](./output/png-24px/glyph/panel_palette.png) |panel-palette |7009
+0xe019 |![alt missing](./output/png-24px/glyph/panel_navigator.png) |panel-navigator |7010
+0xe019 |![alt missing](./output/png-24px/glyph/panel_info.png) |panel-info |7011
+0xe019 |![alt missing](./output/png-24px/glyph/panel_options.png) |panel-tooloptions |7012
+0xe019 |![alt missing](./output/png-24px/glyph/panel_history.png) |panel-history |7013
+0xe019 |![alt missing](./output/png-24px/glyph/panel_layer.png) |panel-layers |7014
+0xe019 |![alt missing](./output/png-24px/glyph/panel_layerset.png) |panel-layersets |7015
  | | __Tools__ Canvas Viewer Window Local Toolbar|
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-startframe |8001
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-prevwaypoint |8002
