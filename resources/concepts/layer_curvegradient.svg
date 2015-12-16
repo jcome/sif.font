@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_curvegradient.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_curvegradient.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_curvegradient.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.20467727"
-     inkscape:cx="-21.985832"
-     inkscape:cy="10.748629"
+     inkscape:zoom="0.86223683"
+     inkscape:cx="500"
+     inkscape:cy="500.00005"
      inkscape:document-units="px"
      inkscape:current-layer="g3853"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -70,17 +73,11 @@
             <path
                id="path3845"
                transform="matrix(0.94157481,0,0,0.93088201,9.8220188,1040.0429)"
-               d="m 156.59375,159.5 0,18.96875 23,0 0,-18.96875 -23,0 z m 1.0625,1.09375 0.0312,0 c 0,4.6442 4.67285,8.4375 10.4375,8.4375 5.76465,0 10.4375,3.73069 10.4375,8.375 l -20.90625,0 0,-16.8125 z"
-               style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-               inkscape:connector-curvature="0" />
+               d="m 156.59375,159.5 0,18.96875 23,0 0,-18.96875 z m 1.0625,1.09375 0.0312,0 c 0,4.6442 4.67285,8.4375 10.4375,8.4375 5.76465,0 10.4375,3.73069 10.4375,8.375 l -20.90625,0 z"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccccsccc" />
           </g>
-          <rect
-             style="fill:none;stroke:none"
-             id="rect3847"
-             width="24"
-             height="24"
-             x="150.17886"
-             y="1438.5748" />
         </g>
       </g>
     </g>

@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_polygon.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_retangle.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_retangle.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.046517561"
-     inkscape:cx="291.93337"
-     inkscape:cy="3061.332"
+     inkscape:zoom="0.35441951"
+     inkscape:cx="-7.0537941"
+     inkscape:cy="644.91773"
      inkscape:document-units="px"
      inkscape:current-layer="g3582"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,14 +63,6 @@
          transform="matrix(1.0190684,0,0,1.0190684,-102.75517,265.87738)"
          style="display:inline"
          id="g6716">
-        <rect
-           transform="scale(-1,1)"
-           y="1146.1104"
-           x="-63.028233"
-           height="24"
-           width="24"
-           id="rect4663"
-           style="fill:none;stroke:none" />
         <rect
            transform="scale(-1,1)"
            style="fill:#000000;fill-rule:evenodd;stroke:none"

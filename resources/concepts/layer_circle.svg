@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_circle.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_circle.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_circle.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25365986"
-     inkscape:cx="-21.817358"
-     inkscape:cy="569.67733"
+     inkscape:zoom="0.73142857"
+     inkscape:cx="500.00002"
+     inkscape:cy="500.00006"
      inkscape:document-units="px"
      inkscape:current-layer="g6704"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -60,14 +63,6 @@
          transform="matrix(1.0190684,0,0,1.0190684,-261.84492,305.87444)"
          style="display:inline"
          id="g6704">
-        <rect
-           transform="scale(-1,1)"
-           style="fill:none;stroke:none"
-           id="rect4484"
-           width="24"
-           height="24"
-           x="-219.14116"
-           y="1106.8617" />
         <path
            sodipodi:type="arc"
            style="fill:#000000;fill-opacity:1;stroke:none"
@@ -76,7 +71,7 @@
            sodipodi:cy="349.94714"
            sodipodi:rx="18.214977"
            sodipodi:ry="18.214977"
-           d="m -239.07155,349.94714 a 18.214977,18.214977 0 1 1 -36.42996,0 18.214977,18.214977 0 1 1 36.42996,0 z"
+           d="m -239.07155,349.94714 a 18.214977,18.214977 0 0 1 -18.21498,18.21498 18.214977,18.214977 0 0 1 -18.21498,-18.21498 18.214977,18.214977 0 0 1 18.21498,-18.21497 18.214977,18.214977 0 0 1 18.21498,18.21497 z"
            transform="matrix(-0.5764487,0,0,0.5764487,58.828674,917.13512)" />
       </g>
     </g>

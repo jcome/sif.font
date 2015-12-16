@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_lineargradient.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_lineargradient.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_lineargradient.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.638"
-     inkscape:cx="303.29154"
-     inkscape:cy="500"
+     inkscape:zoom="0.8605729"
+     inkscape:cx="500.00002"
+     inkscape:cy="499.99997"
      inkscape:document-units="px"
      inkscape:current-layer="g3835"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -66,13 +69,6 @@
              style="display:inline"
              id="g3835"
              transform="translate(-7.5450402,-739.62592)">
-            <rect
-               y="1146.1104"
-               x="234.16939"
-               height="24"
-               width="24"
-               id="rect3837"
-               style="fill:none;stroke:none" />
             <g
                id="g3839"
                transform="matrix(0.93785617,0,0,0.89096079,14.619959,127.37963)">

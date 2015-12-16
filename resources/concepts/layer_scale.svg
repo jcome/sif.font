@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_move.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_scale.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_scale.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.046517561"
-     inkscape:cx="291.93337"
-     inkscape:cy="-378.22922"
+     inkscape:zoom="0.64269457"
+     inkscape:cx="500.48326"
+     inkscape:cy="497.90207"
      inkscape:document-units="px"
      inkscape:current-layer="g3582"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,29 +59,16 @@
        style="display:inline"
        id="g3582"
        transform="matrix(40.887017,0,0,40.887017,2575.176,-58573.169)">
-      <g
-         transform="matrix(1.0147921,0,0,1.0147921,-300.56465,151.34221)"
-         style="display:inline"
-         id="g6859">
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 243.33729,1276.5006 -5.96875,5.9687 -3.1875,-3.3125 0,8.75 8.5,0 -3.1875,-3.3125 5.96875,-5.9687 -2.125,-2.125 z"
-           id="path3304"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:#000000;fill-opacity:1;stroke:none"
-           d="m 249.46226,1263.9068 3.28125,3.1875 -5.9375,5.9375 2.125,2.125 5.96875,-5.9687 3.28125,3.1875 0,-8.4688 -8.71875,0 z"
-           id="path3320"
-           inkscape:connector-curvature="0" />
-        <rect
-           transform="matrix(0,1,-1,0,0,0)"
-           y="-258.15775"
-           x="1263.8057"
-           height="24"
-           width="24"
-           id="rect3269"
-           style="fill:none;stroke:none" />
-      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path3304"
+         d="m -53.62789,1446.7249 -6.057041,6.057 -3.23465,-3.3615 0,8.8795 8.625733,0 -3.23465,-3.3615 6.057041,-6.057 -2.156433,-2.1565 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3320"
+         d="m -47.412319,1433.9448 3.329786,3.2347 -6.025328,6.0253 2.156433,2.1565 6.057041,-6.057 3.329786,3.2346 0,-8.5941 -8.847718,0 z"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>

@@ -13,8 +13,11 @@
    height="1000"
    id="svg3888"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
-   sodipodi:docname="layer_circle.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="layer_polygon.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/layer_polygon.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
   <defs
      id="defs3890" />
   <sodipodi:namedview
@@ -24,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.046517561"
-     inkscape:cx="291.93337"
-     inkscape:cy="3061.332"
+     inkscape:zoom="0.69498286"
+     inkscape:cx="500.00012"
+     inkscape:cy="499.99958"
      inkscape:document-units="px"
      inkscape:current-layer="g3582"
      showgrid="false"
-     inkscape:window-width="1402"
-     inkscape:window-height="856"
-     inkscape:window-x="38"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,24 +59,12 @@
        style="display:inline"
        id="g3582"
        transform="matrix(40.887017,0,0,40.887017,2575.176,-58573.169)">
-      <g
-         transform="matrix(1.0190682,0,0,1.0190682,-62.982726,265.87761)"
-         style="display:inline"
-         id="g6712">
-        <rect
-           y="1146.1104"
-           x="-4.6728514e-06"
-           height="24"
-           width="24"
-           id="rect4589"
-           style="fill:none;stroke:none" />
-        <path
-           style="fill:#000000;fill-rule:evenodd;stroke:none"
-           d="M 13.34089,1147.0598 0,1155.0766 l 4.27213,7.1094 6.08464,-3.6564 6.39825,10.6314 L 24,1164.7977 c -3.55303,-5.9127 -7.10606,-11.8253 -10.6591,-17.738 z"
-           id="path4592"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cccccccc" />
-      </g>
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path4592"
+         d="m -49.387449,1434.8098 -13.595277,8.1696 4.353592,7.245 6.200663,-3.7261 6.520253,10.8341 7.383129,-4.4465 c -3.62078,-6.0254 -7.24156,-12.0508 -10.86235,-18.0762 z"
+         style="fill:#000000;fill-rule:evenodd;stroke:none" />
     </g>
   </g>
 </svg>
