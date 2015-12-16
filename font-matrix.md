@@ -1,18 +1,18 @@
-SIFont Icons
+SIF is Font 
 ----
 
 Code         |Glyph            |Icon Name    |Number       |Icon
 ------------ | :-------------: | ------------| ------------| -------------|
 0xe000|![alt Standing Figure](./output/png-24px/glyph/still-figure.png)| animation-mode-off |1000
 0xe001 |![alt Warkling Figure](./output/png-24px/glyph/walking-figure.png) |animation-mode-on |1001
- | | __Interpolation__ |
+ xxxxxx | |  __INTERPOLATIONS__ | xxxx
 0xe002 |![alt Interplator - Camped](./output/png-24px/glyph/interpolator-camped.png) |interpolation-camped | 2001 
 0xe003 |![alt Interplator - Constant](./output/png-24px/glyph/interpolator-constant.png) |interpolation-constant |2002
 0xe004 |![alt Interplator - Ease](./output/png-24px/glyph/interpolator-ease.png) |interpolation-ease |2003
 0xe005 |![alt Interplator - Nonnamed](./output/png-24px/glyph/interpolator-nonnamed.png) |interpolation-nonnamed |2004
 0xe006 |![alt Interplator - TCB](./output/png-24px/glyph/interpolator-TCB.png) |interpolation-TCB |2005
 0xe000 |![alt Standing Figure](./output/png-24px/glyph/still-figure.png) |interpolation-static |2006
- | | __Value Types__ |
+ xxxxxx| | __VALUES__ | xxxx
 0xe007 |![alt Angle](./output/png-24px/glyph/angle.png) |value-type-angle |3001
 0xe008 |![alt Celluloid](./output/png-24px/glyph/celluloid.png) |value-type-canvas |3002
 0xe009 |![alt Clock](./output/png-24px/glyph/clock.png) |value-type-time |3003
@@ -26,7 +26,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe017 |![alt Spline Point](./output/png-24px/glyph/spline-point.png) |value-type-splinepoint |3011
 0xe018 |![alt Switch](./output/png-24px/glyph/switch.png) |value-type-bool |3012
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |value-type-gradient |3013
- | | __Duck Types__ |
+ xxxxxx | | __DUCKS__ | xxxx
 0xe019 |![alt missing](./output/png-24px/glyph/duck-position.png) |duck-position |4001
 0xe019 |![alt missing](./output/png-24px/glyph/duck-vertex.png) |duck-vertex |4002
 0xe019 |![alt missing](./output/png-24px/glyph/duck-tangent.png) |duck-tangent |4003
@@ -35,7 +35,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/duck-angle.png) |duck-angle |4006
 0xe019 |![alt missing](./output/png-24px/glyph/duck-scale.png) |duck-scale |4007
 0xe019 |![alt missing](./output/png-24px/glyph/duck-skew.png) |duck-skew |4008
- | | __Layers__ |
+ xxxxxx | | __LAYERS__ | xxxx
 0xe019 |![alt missing](./output/png-24px/glyph/layer_blur.png) |layer-blur-blur |5001
 0xe019 |![alt missing](./output/png-24px/glyph/layer_motionblur.png) |layer-blur-motion |5002
 0xe019 |![alt missing](./output/png-24px/glyph/layer_radialblur.png) |layer-blur-radial |5003
@@ -88,7 +88,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/layer_rotate.png) |layer-transform-rotate |5050
 0xe019 |![alt missing](./output/png-24px/glyph/layer_scale.png) |layer-transform-scale |5051
 0xe019 |![alt missing](./output/png-24px/glyph/layer_move.png) |layer-transform-translate |5052
- | | __Toolbox__ |
+ xxxxxx | | __TOOLS : Toolbox__ | xxxx
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_brush.png) |toolbox-brush |6001
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_circle.png) |toolbox-circle |6002
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_draw.png) |toolbox-draw |6003
@@ -109,7 +109,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_width.png) |toolbox-linewidth |6018
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_zoom.png) |toolbox-zoom |6019
 0xe019 |![alt missing](./output/png-24px/glyph/toolbox_cut.png) |toolbox-cut |6020
- | | __Panels__ |
+ xxxxxx | | __PANELS__ | xxxx
 0xe019 |![alt missing](./output/png-24px/glyph/panel_toolbopngx.png) |panel-toolbox |7001
 0xe019 |![alt missing](./output/png-24px/glyph/panel_parameter.png) |panel-parameters |7002
 0xe019 |![alt missing](./output/png-24px/glyph/panel_keyframe.png) |panel-keyframes |7003
@@ -125,17 +125,17 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/panel_history.png) |panel-history |7013
 0xe019 |![alt missing](./output/png-24px/glyph/panel_layer.png) |panel-layers |7014
 0xe019 |![alt missing](./output/png-24px/glyph/panel_layerset.png) |panel-layersets |7015
- | | __Tools__ Canvas Viewer Window Local Toolbar|
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-startframe |8001
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-prevwaypoint |8002
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-prevkeyframe |8003
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-preframe |8004
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-play |8005
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-nextframe |8006
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-nextwaypoint |8007
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-nextkeyframe |8008
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-endframe |8009
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-zoomout |8010
+ xxxxxx | | __TOOLS : Canvas Window Local Toolbar__ | xxxx
+0xe019 |![alt missing](./output/png-24px/glyph/tool_seektobegin.png) |tool-seektoend |8001
+0xe019 |![alt missing](./output/png-24px/glyph/tool_prevwaypoint.png) |tool-prevwaypoint |8002
+0xe019 |![alt missing](./output/png-24px/glyph/tool_prevkeyframe.png) |tool-prevkeyframe |8003
+0xe019 |![alt missing](./output/png-24px/glyph/tool_prevframe.png) |tool-prevframe |8004
+0xe019 |![alt missing](./output/png-24px/glyph/tool_play.png) |tool-play |8005
+0xe019 |![alt missing](./output/png-24px/glyph/tool_pause.png) |tool-nextframe |8006
+0xe019 |![alt missing](./output/png-24px/glyph/tool_nextframe.png) |tool-nextwaypoint |8007
+0xe019 |![alt missing](./output/png-24px/glyph/tool_nextkeyframe.png) |tool-nextkeyframe |8008
+0xe019 |![alt missing](./output/png-24px/glyph/tool_nextwaypoint.png) |tool-endframe |8009
+0xe019 |![alt missing](./output/png-24px/glyph/tool_seektoend.png) |tool-zoomout |8010
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-zoom100 |8011
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-zoomall |8012
 0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |tool-zoomin |8013
