@@ -42,7 +42,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![alt missing](./output/png-24px/glyph/layer_curvewarp.png) |layer-distortion-curvewarp |5004
 0xe019 |![alt missing](./output/png-24px/glyph/layer_insideout.png) |layer-distortion-insideot |5005
 0xe019 |![alt missing](./output/png-24px/glyph/layer_noisedistort.png) |layer-distortion-noise |5006
-0xe019 |![alt missing](./output/png-24px/glyph/linear-gradient.png) |layer-distortion-spherize |5007
+0xe019 |![alt missing](./output/png-24px/glyph/layer_spherize.png) |layer-distortion-spherize |5007
 0xe019 |![alt missing](./output/png-24px/glyph/layer_stretch.png) |layer-distortion-stretch |5008
 0xe019 |![alt missing](./output/png-24px/glyph/layer_twirl.png) |layer-distortion-twirl |5009
 0xe019 |![alt missing](./output/png-24px/glyph/layer_warp.png) |layer-distortion-warp |5010
