@@ -3,8 +3,9 @@
 
 Code         |Glyph            |Icon Name    |Number       |Icon
 ------------ | :-------------: | ------------| ------------| -------------|
-0xe000|![alt Standing Figure](./output/png-24px/glyph/still-figure.png)| animation-mode-off |1000
-0xe001 |![alt Warkling Figure](./output/png-24px/glyph/walking-figure.png) |animation-mode-on |1001
+0xe000|![](./output/png-24px/glyph/synfig.png)| Synfig Studio |1000
+0xe001 |![](./output/png-24px/glyph/still-figure.png) |Still Figure |1001
+0xe002 |![](./output/png-24px/glyph/walking-figure.png) |Walking Figure |1002
  xxxxxx | |  __INTERPOLATIONS__ | xxxx
 0xe002 |![alt Interplator - Camped](./output/png-24px/glyph/interpolator-camped.png) |interpolation-camped | 2001 
 0xe003 |![alt Interplator - Constant](./output/png-24px/glyph/interpolator-constant.png) |interpolation-constant |2002
@@ -136,53 +137,53 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_nextkeyframe.png) |tool-nextkeyframe |8008
 0xe019 |![](./output/png-24px/glyph/tool_nextwaypoint.png) |tool-endframe |8009
 0xe019 |![](./output/png-24px/glyph/tool_seektoend.png) |tool-zoomout |8010
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-zoom100 |8011
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-zoomall |8012
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-zoomin |8013
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-zoom |8014
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-rotate |8015
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-pad |8016
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-render |8017
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-priview |8018
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-animatemodeoff |8019
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-animatemodeon |8020
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-unlockprevframe |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-lockprevframe |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-locknextframe |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-unlocknextframe |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchpositionduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchvertexduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchtangentduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchradiusduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchwidthduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchangleduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchscaleduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchskewduck |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-snapguideline |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchgird |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchguideline |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-switchonionskin |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-save |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-saveas |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-undo |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool-redo |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/linear-gradient.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/tool_lockpast.png) |tool-lockpast |8011
+0xe019 |![](./output/png-24px/glyph/tool_unlockpast.png) |tool-unlockpast |8012
+0xe019 |![](./output/png-24px/glyph/tool_lockfuture.png) |tool-lockfuture |8013
+0xe019 |![](./output/png-24px/glyph/tool_unlockfuture.png) |tool-unlockfuture |8014
+0xe019 |![](./output/png-24px/glyph/tool_onnion.png) |tool-onnionskin |8015
+0xe019 |![](./output/png-24px/glyph/tool_showgird.png) |tool-gird |8016
+0xe019 |![](./output/png-24px/glyph/tool_snapgird.png) |tool-snapgird |8017
+0xe019 |![](./output/png-24px/glyph/tool_showline.png) |tool-guideline |8018
+0xe019 |![](./output/png-24px/glyph/tool_snapline.png) |tool-snapguideline |8019
+0xe019 |![](./output/png-24px/glyph/tool_jack.png) |tool-jackaudio |8020
+0xe019 |![](./output/png-24px/glyph/tool_preview.png) |tool-preview |8021
+0xe019 |![](./output/png-24px/glyph/tool_render.png) |tool-render |8022
+0xe019 |![](./output/png-24px/glyph/walking-figure.png) |tool-animate mode on|8023
+0xe019 |![](./output/png-24px/glyph/still-figure.png) |tool-animate mode off|8024
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-save |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-saveas |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-undo |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-redo |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
 
