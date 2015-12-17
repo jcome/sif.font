@@ -12,7 +12,8 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe004 |![alt Interplator - Ease](./output/png-24px/glyph/interpolator-ease.png) |interpolation-ease |2003
 0xe005 |![alt Interplator - Nonnamed](./output/png-24px/glyph/interpolator-nonnamed.png) |interpolation-nonnamed |2004
 0xe006 |![alt Interplator - TCB](./output/png-24px/glyph/interpolator-TCB.png) |interpolation-tcb |2005
-0xe000 |![alt Standing Figure](./output/png-24px/glyph/still-figure.png) |interpolation-static |2006
+0xe007 |![alt Interplator - Linear](./output/png-24px/glyph/interpolator-linear.png) |interpolation-linear |2006
+0xe000 |![alt Standing Figure](./output/png-24px/glyph/still-figure.png) |interpolation-static |2007
  xxxxxx| | __VALUES__ | xxxx
 0xe007 |![alt Angle](./output/png-24px/glyph/angle.png) |value-angle |3001
 0xe008 |![alt Celluloid](./output/png-24px/glyph/celluloid.png) |value-canvas |3002
