@@ -122,7 +122,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/panel_palette.png) |panel-palette |7009
 0xe019 |![](./output/png-24px/glyph/panel_navigator.png) |panel-navigator |7010
 0xe019 |![](./output/png-24px/glyph/panel_info.png) |panel-info |7011
-0xe019 |![](./output/png-24px/glyph/panel_options.png) |panel-tooloptions |7012
+0xe019 |![](./output/png-24px/glyph/synfig.png) |panel-tooloptions |7012
 0xe019 |![](./output/png-24px/glyph/panel_history.png) |panel-history |7013
 0xe019 |![](./output/png-24px/glyph/panel_layer.png) |panel-layers |7014
 0xe019 |![](./output/png-24px/glyph/panel_layerset.png) |panel-layersets |7015
