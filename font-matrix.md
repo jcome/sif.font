@@ -157,11 +157,11 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_zoomout.png) |tool-zoomout|8027
 0xe019 |![](./output/png-24px/glyph/tool_zoom100.png) |tool-zoom100|8028
 0xe019 |![](./output/png-24px/glyph/tool_zoomfit.png) |tool-zoomfit|8029
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_key.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_keyadd.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_keyremove.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_keyclone.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-save |800
