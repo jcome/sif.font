@@ -3,7 +3,7 @@
 
 Code         |Glyph            |Icon Name    |Number       |Icon
 ------------ | :-------------: | ------------| ------------| -------------|
-0xe000|![](./output/png-24px/glyph/synfig.png)| Synfig Studio |1000
+0xe000 |![](./output/png-24px/glyph/synfig2.png)| Synfig Studio |1000
 0xe001 |![](./output/png-24px/glyph/still-figure.png) |Still Figure |1001
 0xe002 |![](./output/png-24px/glyph/walking-figure.png) |Walking Figure |1002
  xxxxxx | |  __INTERPOLATIONS__ | xxxx
@@ -151,11 +151,11 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_render.png) |tool-render |8022
 0xe019 |![](./output/png-24px/glyph/walking-figure.png) |tool-animate mode on|8023
 0xe019 |![](./output/png-24px/glyph/still-figure.png) |tool-animate mode off|8024
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_zoom.png) |tool-zoom|8025
+0xe019 |![](./output/png-24px/glyph/tool_zoomin.png) |tool-zoomin|8026
+0xe019 |![](./output/png-24px/glyph/tool_zoomout.png) |tool-zoomout|8027
+0xe019 |![](./output/png-24px/glyph/tool_zoom100.png) |tool-zoom100|8028
+0xe019 |![](./output/png-24px/glyph/tool_zoomfit.png) |tool-zoomfit|8029
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
