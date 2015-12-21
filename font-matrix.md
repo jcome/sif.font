@@ -181,11 +181,11 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_layerduplicate.png) |tool-duplicatelayer |8051
 0xe019 |![](./output/png-24px/glyph/tool_layermovedown.png) |tool-movelayerdown |8052
 0xe019 |![](./output/png-24px/glyph/tool_layermoveup.png) |tool-moveuplayer |8053
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/tool_newfile.png) |tool-newdocument |8054
+0xe019 |![](./output/png-24px/glyph/tool_save.png) |tool-save |8055
+0xe019 |![](./output/png-24px/glyph/tool_saveall.png) |tool-saveall |8056
+0xe019 |![](./output/png-24px/glyph/tool_saveas.png) |tool-saveas |8057
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |8058
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |8059
+0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |8060
 
