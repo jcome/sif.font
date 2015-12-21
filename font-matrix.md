@@ -135,7 +135,7 @@ Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
 0xe019 |![](./output/png-24px/glyph/tool_nextframe.png) |tool-nextwaypoint |8007 |![](./resources/synfig-icons/animate_seek_next_frame_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_nextkeyframe.png) |tool-nextkeyframe |8008 |![](./resources/synfig-icons/animate_seek_next_keyframe_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_nextwaypoint.png) |tool-nextwaypoint |8009 |NA
-0xe019 |![](./output/png-24px/glyph/tool_seektoend.png) |tool-zoomout |8010 |![](./resources/synfig-icons/animate_seek_end_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_seektoend.png) |tool-seektoend |8010 |![](./resources/synfig-icons/animate_seek_end_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_lockpast.png) |tool-lockpastkeyframe |8011 |![](./resources/synfig-icons/keyframe_lock_past_on_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_unlockpast.png) |tool-unlockpastkeyframe |8012 |![](./resources/synfig-icons/keyframe_lock_past_off_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_lockfuture.png) |tool-lockfuturekeyframe |8013 |![](./resources/synfig-icons/keyframe_lock_future_on_icon.png)
