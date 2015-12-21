@@ -162,7 +162,7 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_keyremove.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/tool_keyclone.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
+0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-link|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-save |800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-saveas |800
