@@ -157,29 +157,30 @@ Code         |Glyph            |Icon Name    |Number       |Icon
 0xe019 |![](./output/png-24px/glyph/tool_zoomout.png) |tool-zoomout|8027
 0xe019 |![](./output/png-24px/glyph/tool_zoom100.png) |tool-zoom100|8028
 0xe019 |![](./output/png-24px/glyph/tool_zoomfit.png) |tool-zoomfit|8029
-0xe019 |![](./output/png-24px/glyph/tool_key.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/tool_keyadd.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/tool_keyremove.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/tool_keyclone.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-link|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-|800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-save |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-saveas |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-undo |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool-redo |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
-0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
+0xe019 |![](./output/png-24px/glyph/tool_key.png) |tool-keyframe|8030
+0xe019 |![](./output/png-24px/glyph/tool_keyadd.png) |tool-addkeyframe|8031
+0xe019 |![](./output/png-24px/glyph/tool_keyremove.png) |tool-removekeyframe|8032
+0xe019 |![](./output/png-24px/glyph/tool_keyclone.png) |tool-duplicatekeyframe|8033
+0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-keysettings|8034
+0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-linkparameters|8035
+0xe019 |![](./output/png-24px/glyph/tool_increase.png) |tool-increaseammount|8036
+0xe019 |![](./output/png-24px/glyph/tool_decrease.png) |tool-decreaseamount |8037
+0xe019 |![](./output/png-24px/glyph/tool_layeraddtoset.png) |tool-addlayertoset |8038
+0xe019 |![](./output/png-24px/glyph/tool_layerremovefromset.png) |tool-removelayerfromset |8039
+0xe019 |![](./output/png-24px/glyph/tool_layerdescription.png) |tool-layerdescription |8040
+0xe019 |![](./output/png-24px/glyph/tool_layercopy.png) |tool-copylayer |8041
+0xe019 |![](./output/png-24px/glyph/tool_layerpaste.png) |tool-pastelayer |8042
+0xe019 |![](./output/png-24px/glyph/tool_renderclose.png) |tool-enablerender |8043
+0xe019 |![](./output/png-24px/glyph/tool_render.png) |tool-disablerender |8044
+0xe019 |![](./output/png-24px/glyph/tool_lock.png) |tool-locklayer |8045
+0xe019 |![](./output/png-24px/glyph/tool_unlock.png) |tool-unlocklayer |8046
+0xe019 |![](./output/png-24px/glyph/tool_eyeopen.png) |tool-showlayer |8047
+0xe019 |![](./output/png-24px/glyph/tool_eyeclose.png) |tool-hidelayer |8048
+0xe019 |![](./output/png-24px/glyph/tool_trash.png) |tool-deletelayer |8049
+0xe019 |![](./output/png-24px/glyph/tool_folderopened.png) |tool-selectschildrenlayers |8050
+0xe019 |![](./output/png-24px/glyph/tool_layerduplicate.png) |tool-duplicatelayer |8051
+0xe019 |![](./output/png-24px/glyph/tool_layermovedown.png) |tool-movelayerdown |8052
+0xe019 |![](./output/png-24px/glyph/tool_layermoveup.png) |tool-moveuplayer |8053
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
 0xe019 |![](./output/png-24px/glyph/synfig.png) |tool- |800
