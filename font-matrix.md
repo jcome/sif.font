@@ -36,7 +36,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/png-24px/glyph/duck-scale.png) |duck-scale |04007 |NA
 0xe019 |![](./output/png-24px/glyph/duck-skew.png) |duck-skew |04008 |NA
  | | __LAYERS__ |
-0xe019 |![](./output/png-24px/glyph/layer_blur.png) |layer-blur-blur ||05001 |![](./resources/synfig-icons/layer_blur_blur_icon.png)
+0xe019 |![](./output/png-24px/glyph/layer_blur.png) |layer-blur-blur |05001 |![](./resources/synfig-icons/layer_blur_blur_icon.png)
 0xe019 |![](./output/png-24px/glyph/layer_motionblur.png) |layer-blur-motion |05002 |![](./resources/synfig-icons/layer_blur_motion_icon.png)
 0xe019 |![](./output/png-24px/glyph/layer_radialblur.png) |layer-blur-radial |05003 |![](./resources/synfig-icons/layer_blur_radial_icon.png)
 0xe019 |![](./output/png-24px/glyph/layer_curvewarp.png) |layer-distortion-curvewarp |05004 |![](./resources/synfig-icons/layer_distortion_curvewarp_icon.png)
