@@ -132,7 +132,7 @@ Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
 0xe019 |![](./output/png-24px/glyph/tool_prevframe.png) |tool-prevframe |08004 |![](./resources/synfig-icons/animate_seek_prev_frame_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_play.png) |tool-play |08005 |![](./resources/synfig-icons/animate_play_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_pause.png) |tool-nextframe |08006 |![](./resources/synfig-icons/animate_pause_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_nextframe.png) |tool-nextwaypoint |08007 |![](./resources/synfig-icons/animate_seek_next_frame_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_nextframe.png) |tool-nextframe |08007 |![](./resources/synfig-icons/animate_seek_next_frame_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_nextkeyframe.png) |tool-nextkeyframe |08008 |![](./resources/synfig-icons/animate_seek_next_keyframe_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_nextwaypoint.png) |tool-nextwaypoint |08009 |NA
 0xe019 |![](./output/png-24px/glyph/tool_seektoend.png) |tool-seektoend |08010 |![](./resources/synfig-icons/animate_seek_end_icon.png)
