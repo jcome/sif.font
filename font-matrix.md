@@ -136,25 +136,26 @@ Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
 0xe019 |![](./output/png-24px/glyph/tool_nextkeyframe.png) |tool-nextkeyframe |08008 |![](./resources/synfig-icons/animate_seek_next_keyframe_icon.png)
 0xe019 |![](./output/png-24px/glyph/tool_nextwaypoint.png) |tool-nextwaypoint |08009 |NA
 0xe019 |![](./output/png-24px/glyph/tool_seektoend.png) |tool-seektoend |08010 |![](./resources/synfig-icons/animate_seek_end_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_lockpast.png) |tool-lockpastkeyframe |08011 |![](./resources/synfig-icons/keyframe_lock_past_on_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_unlockpast.png) |tool-unlockpastkeyframe |08012 |![](./resources/synfig-icons/keyframe_lock_past_off_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_lockfuture.png) |tool-lockfuturekeyframe |08013 |![](./resources/synfig-icons/keyframe_lock_future_on_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_unlockfuture.png) |tool-unlockfuturekeyframe |08014 |![](./resources/synfig-icons/keyframe_lock_future_off_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_onnion.png) |tool-onnionskin |08015 |![](./resources/synfig-icons/onion_skin_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_showgird.png) |tool-gird |08016 |![](./resources/synfig-icons/show_grid_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_snapgird.png) |tool-snapgird |08017 |![](./resources/synfig-icons/snap_grid_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_showline.png) |tool-guideline |08018 |![](./resources/synfig-icons/show_guideline_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_snapline.png) |tool-snapguideline |08019 |![](./resources/synfig-icons/snap_guideline_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_jack.png) |tool-jackaudio |08020 |![](./resources/synfig-icons/jack_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_preview.png) |tool-preview |08021 |![](./resources/synfig-icons/preview_options_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_render.png) |tool-render |08022 |![](./resources/synfig-icons/render_options_icon.png)
-0xe019 |![](./output/png-24px/glyph/walking-figure.png) |tool-animatemodeon|08023 |![](./resources/synfig-icons/animate_mode_on_icon.png)
-0xe019 |![](./output/png-24px/glyph/still-figure.png) |tool-animatemodeoff|08024 |![](./resources/synfig-icons/animate_mode_off_icon.png)
-0xe019 |![](./output/png-24px/glyph/tool_zoom.png) |tool-zoom|08025 |GTK+
-0xe019 |![](./output/png-24px/glyph/tool_zoomin.png) |tool-zoomin|08026 |GTK+
-0xe019 |![](./output/png-24px/glyph/tool_zoomout.png) |tool-zoomout|08027 |GTK+
-0xe019 |![](./output/png-24px/glyph/tool_zoom100.png) |tool-zoom100|08028 |GTK+
-0xe019 |![](./output/png-24px/glyph/tool_zoomfit.png) |tool-zoomfit|08029 |GTK+
+0xe019 |![](./output/png-24px/glyph/tool_loop.png) |tool-loop |08011 |![](./resources/synfig-icons/animate_loop_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_lockpast.png) |tool-lockpastkeyframe |08012 |![](./resources/synfig-icons/keyframe_lock_past_on_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_unlockpast.png) |tool-unlockpastkeyframe |08013 |![](./resources/synfig-icons/keyframe_lock_past_off_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_lockfuture.png) |tool-lockfuturekeyframe |08014 |![](./resources/synfig-icons/keyframe_lock_future_on_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_unlockfuture.png) |tool-unlockfuturekeyframe |08015 |![](./resources/synfig-icons/keyframe_lock_future_off_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_onnion.png) |tool-onnionskin |08016 |![](./resources/synfig-icons/onion_skin_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_showgird.png) |tool-gird |08017 |![](./resources/synfig-icons/show_grid_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_snapgird.png) |tool-snapgird |08018 |![](./resources/synfig-icons/snap_grid_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_showline.png) |tool-guideline |08019 |![](./resources/synfig-icons/show_guideline_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_snapline.png) |tool-snapguideline |08020 |![](./resources/synfig-icons/snap_guideline_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_jack.png) |tool-jackaudio |08021 |![](./resources/synfig-icons/jack_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_preview.png) |tool-preview |08022 |![](./resources/synfig-icons/preview_options_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_render.png) |tool-render |08023 |![](./resources/synfig-icons/render_options_icon.png)
+0xe019 |![](./output/png-24px/glyph/walking-figure.png) |tool-animatemodeon|08024 |![](./resources/synfig-icons/animate_mode_on_icon.png)
+0xe019 |![](./output/png-24px/glyph/still-figure.png) |tool-animatemodeoff|08025 |![](./resources/synfig-icons/animate_mode_off_icon.png)
+0xe019 |![](./output/png-24px/glyph/tool_zoom.png) |tool-zoom|08026 |GTK+
+0xe019 |![](./output/png-24px/glyph/tool_zoomin.png) |tool-zoomin|08027 |GTK+
+0xe019 |![](./output/png-24px/glyph/tool_zoomout.png) |tool-zoomout|08028 |GTK+
+0xe019 |![](./output/png-24px/glyph/tool_zoom100.png) |tool-zoom100|08029 |GTK+
+0xe019 |![](./output/png-24px/glyph/tool_zoomfit.png) |tool-zoomfit|08030 |GTK+
  | | __TOOLS : Keyframe Window__ |
 0xe019 |![](./output/png-24px/glyph/tool_key.png) |tool-keyframe|09001 |V
 0xe019 |![](./output/png-24px/glyph/tool_keyadd.png) |tool-addkeyframe|09002 |GTK+
