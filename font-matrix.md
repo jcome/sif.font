@@ -3,10 +3,10 @@
 
 Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
 :------------ | :-------------: | :------------| :------------|----------|
-0xe000 |![](./output/png-24px/glyph/synfig.png)|synfig logo |1001 | ![](./resources/synfig-icons/about_icon.png)
-0xe001 |![](./output/png-24px/glyph/synfig2.png) |synfig logo 2|1002| ![](./resources/synfig-icons/about_icon.png)
+0xe000 |![](./output/png-24px/glyph/synfig.png)|synfig-logo |1001 | ![](./resources/synfig-icons/about_icon.png)
+0xe001 |![](./output/png-24px/glyph/synfig2.png) |synfig-logo 2|1002| ![](./resources/synfig-icons/about_icon.png)
    | |  __INTERPOLATIONS__ |
-0xe002 |![](./output/png-24px/glyph/interpolator-camped.png) |interpolation-camped |2001 |![](./resources/synfig-icons/interpolation_type_clamped_icon.png)
+0xe002 |![](./output/png-24px/glyph/interpolator-clamped.png) |interpolation-clamped |2001 |![](./resources/synfig-icons/interpolation_type_clamped_icon.png)
 0xe003 |![](./output/png-24px/glyph/interpolator-constant.png) |interpolation-constant |2002 |![](./resources/synfig-icons/interpolation_type_const_icon.png)
 0xe004 |![](./output/png-24px/glyph/interpolator-ease.png) |interpolation-ease |2003 |![](./resources/synfig-icons/interpolation_type_ease_icon.png)
 0xe005 |![](./output/png-24px/glyph/interpolator-nonnamed.png) |interpolation-nonnamed |2004 |NA
@@ -163,7 +163,7 @@ Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
 0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-keysettings|9005 |GTK+
 xxxxxx | | __TOOLS : Parameter Window__ |
 0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-valuenode-link|1001 |![](./resources/synfig-icons/valuenode_icon.png)
-0xe008 |![](./output/png-24px/glyph/still-figure.png) |tool-valuenode-forbidanimation |2007 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
+0xe008 |![](./output/png-24px/glyph/still-figure.png) |tool-valuenode-forbidanimation |1002 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
  | | __TOOLS : Layer Window__ |
 0xe019 |![](./output/png-24px/glyph/tool_increase.png) |tool-increaseammount|1101 |GTK+
 0xe019 |![](./output/png-24px/glyph/tool_decrease.png) |tool-decreaseamount |1102 |GTK+
