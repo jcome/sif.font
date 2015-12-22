@@ -14,8 +14,8 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_renderclose.svg"
-   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_renderclose.png"
+   sodipodi:docname="clapperboard-1.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_render.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
   <defs
@@ -27,20 +27,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32000012"
-     inkscape:cx="500.00002"
-     inkscape:cy="499.99982"
+     inkscape:zoom="0.45851627"
+     inkscape:cx="147.28172"
+     inkscape:cy="384.40363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1440"
      inkscape:window-height="826"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-x="60"
+     inkscape:window-y="46"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
        position="50,760"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -105,34 +105,14 @@
      transform="translate(0,-52.362183)"
      style="display:inline">
     <g
-       style="display:inline"
-       id="g5045"
-       transform="matrix(41.666651,0,0,41.666651,-14268.174,-47557.198)">
-      <rect
-         y="1142.6299"
-         x="342.43631"
-         height="24"
-         width="24"
-         id="rect5047"
-         style="fill:none;stroke:none" />
-      <g
-         transform="translate(297.67541,468.83435)"
-         id="g5049">
-        <g
-           id="g5051">
-          <g
-             id="g5055" />
-          <g
-             id="g5074"
-             transform="matrix(1,0,0,-1,0,1366.9322)">
-            <path
-               id="path5080"
-               transform="matrix(1,0,-0.20517438,0.97872543,0,0)"
-               style="display:inline;fill:#000000;fill-rule:evenodd;stroke:none"
-               d="m 194.57363,699.69791 4.432,0 -0.4025,2.58379 -4.432,0 z m 8.53225,0 4.432,0 -0.4025,2.58379 -4.432,0 z m -12.00103,3.57512 c -0.39688,0 -0.77233,-0.26115 -0.83669,-0.57483 -0.23366,-1.13883 -0.4673,-2.27755 -0.70096,-3.41638 -0.0644,-0.31367 0.20395,-0.57473 0.60083,-0.57473 l 20.75,0 c 0.39688,0 0.77232,0.26106 0.83667,0.57473 0.23366,1.13883 0.4673,2.27755 0.70096,3.41638 0.0644,0.31368 -0.20393,0.57483 -0.60081,0.57483 z m 2.9145,-6.27666 4.432,0 -1.47283,-2.63284 -4.432,0 z m 8.53225,0 4.432,0 -1.47283,-2.63284 -4.432,0 z m -12.52937,0.93185 20.75047,0 c 0.39689,0 0.66457,-0.25256 0.60022,-0.56626 l -2.5431,-12.39482 c -0.0643,-0.3137 -0.43569,-0.56624 -0.83258,-0.56624 l -20.75047,0 c -0.39688,0 -0.66458,0.25254 -0.60021,0.56624 l 2.5431,12.39482 c 0.0643,0.3137 0.43569,0.56626 0.83257,0.56626 z" />
-          </g>
-        </g>
-      </g>
-    </g>
+       id="g3830"
+       inkscape:transform-center-x="-10.001492"
+       inkscape:transform-center-y="-5.142405"
+       transform="matrix(39.203472,-7.7875456,7.7875456,39.203472,-2198.281,-2684.3964)" />
+    <path
+       id="rect4851-4"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10108101;marker:none;enable-background:accumulate"
+       d="m 75.011258,233.03571 c -5.059871,0.006 -8.759059,3.71411 -8.753002,8.77388 L 66.50622,450.14426 931.585,449.11443 931.33697,240.77975 c -0.006,-5.05984 -3.71413,-8.75905 -8.77386,-8.75301 z m 326.569612,24.80135 35.17423,166.67629 -169.04962,0.2012 -35.17422,-166.67624 169.04961,-0.20125 z m 318.27959,-0.3789 35.17425,166.67629 -169.0496,0.20122 -35.17427,-166.67628 169.04962,-0.20123 z m -650.00253,229.24738 0,495.76185 c 0,23.88241 18.682949,42.56551 42.56538,42.56551 l 779.94856,0 c 23.88245,0 42.56541,-18.6831 42.56541,-42.56551 l 0,-495.76185 z m 519.50919,26.03621 -34.97578,166.71804 169.04973,0 34.97578,-166.71804 -169.04973,0 z m -318.27981,0 -34.97583,166.71804 169.04974,0 34.97584,-166.71804 -169.04975,0 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

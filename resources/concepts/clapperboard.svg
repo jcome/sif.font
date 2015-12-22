@@ -14,7 +14,7 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_render.svg"
+   sodipodi:docname="clapperboard.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_render.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -28,13 +28,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.45851627"
-     inkscape:cx="510.8522"
+     inkscape:cx="147.28172"
      inkscape:cy="384.40363"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:showpageshadow="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1440"
      inkscape:window-height="826"
@@ -108,10 +108,10 @@
        id="g3830"
        inkscape:transform-center-x="-10.001492"
        inkscape:transform-center-y="-5.142405"
-       transform="matrix(40.868149,-8.1182242,8.1182242,40.868149,-2292.5616,-2842.7084)" />
+       transform="matrix(39.203472,-7.7875456,7.7875456,39.203472,-2198.281,-2684.3964)" />
     <path
        inkscape:connector-curvature="0"
-       d="m 277.06532,511.06664 -36.37716,173.39775 175.82287,0 36.37717,-173.39775 -175.82288,0 z m 331.03201,0 -36.37713,173.39775 175.82288,0 36.37712,-173.39775 -175.82287,0 z m -540.323841,-27.07938 0,515.62501 c 0,24.83913 19.4315,44.27083 44.270831,44.27083 l 811.19793,0 c 24.83933,0 44.27083,-19.4317 44.27083,-44.27083 l 0,-515.62501 z M 692.31537,120.52214 761.77974,283.50922 589.32641,317.76605 519.86203,154.77901 692.31537,120.52214 Z m -324.68796,64.49741 69.46433,162.98709 -172.45333,34.25683 -69.46434,-162.98704 172.45334,-34.25688 z m -338.218922,40.474 c -5.161708,1.02542 -8.189375,5.55409 -7.164041,10.71575 L 64.462197,448.73868 946.95879,273.43576 904.74104,60.906385 c -1.02534,-5.161709 -5.55413,-8.189375 -10.71575,-7.164042 z"
+       d="m 271.15398,516.24887 -34.89541,166.33476 168.6611,0 34.89542,-166.33476 -168.66111,0 z m 317.54813,0 -34.89539,166.33476 168.66111,0 34.89538,-166.33476 -168.6611,0 z m -518.314897,-25.97636 0,494.62207 c 0,23.82742 18.639997,42.46762 42.467547,42.46762 l 778.15551,0 c 23.82755,0 42.46755,-18.6402 42.46755,-42.46762 l 0,-494.62207 z M 669.48971,141.61237 736.12459,297.96051 570.69578,330.82196 504.06089,174.47386 669.48971,141.61237 Z M 358.02722,203.48261 424.66207,359.83077 259.23326,392.69222 192.5984,236.34411 358.02722,203.48261 Z M 33.584929,242.30799 c -4.951457,0.98365 -7.855798,5.32785 -6.872229,10.27927 L 67.2108,456.4597 913.76077,288.29737 873.26267,84.424933 c -0.98358,-4.951456 -5.3279,-7.855796 -10.27927,-6.872228 z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10108101;marker:none;enable-background:accumulate"
        id="rect4851" />
   </g>

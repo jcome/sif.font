@@ -14,8 +14,8 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_unlockpast.svg"
-   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_unlockpast.png"
+   sodipodi:docname="folder-1.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_folderopened.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45851627"
-     inkscape:cx="128.09588"
-     inkscape:cy="384.40363"
+     inkscape:zoom="0.53635379"
+     inkscape:cx="564.32333"
+     inkscape:cy="486.1579"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1440"
      inkscape:window-height="826"
-     inkscape:window-x="50"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
        position="50,760"
@@ -104,22 +104,10 @@
      id="layer1"
      transform="translate(0,-52.362183)"
      style="display:inline">
-    <g
-       id="g4531"
-       transform="matrix(41.652211,0,0,41.652211,-4279.2518,-43597.741)">
-      <g
-         id="g4589"
-         transform="matrix(-1.0731231,0,0,0.99228627,262.85456,622.36788)"
-         style="fill:#555753;stroke:#eeeeec;stroke-width:1.93814707" />
-      <g
-         style="fill:#555753;stroke:none"
-         transform="matrix(-1.0731231,0,0,0.99228627,262.85456,622.36788)"
-         id="g4488" />
-      <path
-         id="path8832"
-         transform="translate(12.799165,3.6741655)"
-         style="fill:#000000;stroke:none"
-         d="m 109.375,1044.4375 -8.75,5.375 0,2.1875 7.75,0 0,10.4062 -8.34375,0 9.34375,5.75 0,-5.7187 4.4375,0 0,-12.2813 -4.4375,0 z m -15.726332,1.4178 c -1.249588,0 -2.269765,1.2481 -2.269765,2.7346 l 0,3.1722 1.722834,0 0,-3.1722 c -0.0075,-0.3865 0.221936,-0.6563 0.546931,-0.6563 l 3.664441,0 c 0.325038,0 0.574278,0.2697 0.574278,0.6563 l 0,4.4302 -2.023647,0 0,8.368 11.51291,0 0,-8.368 -7.766429,0 0,-4.4302 c 0,-1.4864 -1.047524,-2.7346 -2.297112,-2.7346 l -3.664441,0 z m 1.195082,7.5197 -4.75,2.9062 4.75,2.9376 z" />
-    </g>
+    <path
+       id="path19146"
+       style="fill:#000000;stroke:none"
+       d="m 252.5,363.78312 0,168.048 52.5,0 0,-93.752 0,-20 20,0 312.50001,0 0,-54.296 z m 92.5,94.296 0,73.752 393.75,0 0,-73.752 z M 92.5,178.07913 l -16.249999,93.90399 -56.250001,0 0,716.096 960,0 0,-416.24801 -839.99999,0 0,330 -40.00001,0 0,-369.99999 112.5,0 0,-188.04801 0,-19.99999 20.00001,0 424.99999,0 20,0 0,19.99999 0,74.29601 81.25,0 20,0 0,20 0,93.752 135.00001,0 0,-259.848 -321.25,0 -61.25,-93.90399 z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

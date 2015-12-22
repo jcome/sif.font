@@ -14,8 +14,8 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_unlockfuture.svg"
-   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_unlockfuture.png"
+   sodipodi:docname="tool_lockfuture.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_lockfuture.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
   <defs
@@ -105,22 +105,54 @@
      transform="translate(0,-52.362183)"
      style="display:inline">
     <g
-       id="g4553"
-       transform="matrix(-41.652211,0,0,41.652211,5279.2518,-43597.741)">
+       transform="matrix(-41.652211,0,0,41.652211,5258.1159,-44691.541)"
+       id="g4563">
       <g
-         style="fill:#555753;stroke:#eeeeec;stroke-width:1.93814707"
-         transform="matrix(-1.0731231,0,0,0.99228627,262.85456,622.36788)"
-         id="g4557" />
+         id="g4567"
+         inkscape:transform-center-x="9.7289875"
+         inkscape:transform-center-y="6.6705311"
+         transform="matrix(0.81074898,0,0,0.81074898,45.965252,560.65044)"
+         style="stroke:#eeeeec;stroke-width:2.46685481">
+        <g
+           transform="translate(-207.32542,359.78467)"
+           id="g4570"
+           style="stroke:#eeeeec;stroke-width:2.46685481">
+          <g
+             id="g4572"
+             style="stroke:#eeeeec;stroke-width:2.46685481">
+            <g
+               transform="matrix(-1.3133205,0,0,1.21439,474.00999,-247.13989)"
+               id="g4574"
+               style="fill:#555753;stroke:#eeeeec;stroke-width:1.95334578" />
+          </g>
+        </g>
+      </g>
       <g
-         id="g4559"
-         transform="matrix(-1.0731231,0,0,0.99228627,262.85456,622.36788)"
-         style="fill:#555753;stroke:none" />
+         style="fill:#2e3436;stroke:none"
+         transform="matrix(0.81074898,0,0,0.81074898,45.965252,560.65044)"
+         inkscape:transform-center-y="6.6705311"
+         inkscape:transform-center-x="9.7289875"
+         id="g4576">
+        <g
+           style="fill:#2e3436;stroke:none"
+           id="g4578"
+           transform="translate(-207.32542,359.78467)">
+          <g
+             style="fill:#2e3436;stroke:none"
+             id="g4580">
+            <g
+               style="fill:#2e3436;stroke:none"
+               id="g4583"
+               transform="matrix(-1.3133205,0,0,1.21439,474.00999,-247.13989)" />
+          </g>
+        </g>
+      </g>
       <path
          inkscape:connector-curvature="0"
-         d="m 109.375,1044.4375 -8.75,5.375 0,2.1875 7.75,0 0,10.4062 -8.34375,0 9.34375,5.75 0,-5.7187 4.4375,0 0,-12.2813 -4.4375,0 z m -14.53125,8.9375 -4.75,2.9062 4.75,2.9376 z m -1.195082,-7.5197 c -1.249588,0 -2.269765,1.2481 -2.269765,2.7346 l 0,3.1722 1.722834,0 0,-3.1722 c -0.0075,-0.3865 0.221936,-0.6563 0.546931,-0.6563 l 3.664441,0 c 0.325038,0 0.574278,0.2697 0.574278,0.6563 l 0,4.4302 -2.023647,0 0,8.368 11.51291,0 0,-8.368 -7.766429,0 0,-4.4302 c 0,-1.4864 -1.047524,-2.7346 -2.297112,-2.7346 l -3.664441,0 z"
+         d="m 139.3125,1044.5312 -3.75,2.2813 c 0.0625,0.063 0.13099,0.1204 0.1875,0.1875 0.56513,0.671 0.88779,1.5334 0.90625,2.4688 l 0,0.031 0,2.625 1.59375,0 0,10.2188 -8.53125,0 9.59375,5.9062 0,-5.7188 4.40625,0 0,-12.2812 -4.40625,0 z m -8.625,5.2813 -0.46875,0.2813 0,2.0312 2.65625,0 0,-2.3125 z m -5.90625,3.625 -4.78125,2.9375 4.78125,2.9375 z m 8.55592,-4.6084 -3.63219,0 c -0.32247,0 -0.55951,0.2731 -0.55194,0.6566 l 0,3.6008 4.75391,0 0,-3.6008 c 0,-0.3836 -0.24727,-0.6566 -0.56978,-0.6566 z m 0,-2.0333 c 1.23988,0 2.24995,1.2153 2.27905,2.6899 l 0,3.6008 1.62024,0 0,8.3028 -11.41294,0 0,-8.3028 1.62026,0 0,-3.6008 c 0,-1.475 1.02134,-2.6899 2.2612,-2.6899 z"
          style="fill:#000000;stroke:none"
-         transform="translate(12.799165,3.6741655)"
-         id="path8842" />
+         transform="translate(-17.628896,29.844169)"
+         id="path8840" />
     </g>
   </g>
 </svg>
