@@ -1,8 +1,8 @@
 # SIF is Font
 
 
-Code         |Glyph            |Icon Name    |Number       | Synfig Icon |
-:------------ | :-------------: | :------------| :------------|----------|
+Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
+:----- | :---: | :--------  | :------|-------------|----------|
 0xe000 |![](./output/png-24px/glyph/synfig.png)|synfig-logo |01001 | ![](./resources/synfig-icons/about_icon.png)
 0xe001 |![](./output/png-24px/glyph/synfig2.png) |synfig-logo 2|01002| ![](./resources/synfig-icons/about_icon.png)
    | |  __INTERPOLATIONS__ |
