@@ -14,7 +14,7 @@
    id="svg3288"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="valuetype_time.svg"
+   sodipodi:docname="clock.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/valuetype_time.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.2215084"
-     inkscape:cx="-300.87871"
+     inkscape:cx="782.60165"
      inkscape:cy="332.75994"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
