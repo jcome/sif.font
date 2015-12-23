@@ -163,8 +163,25 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/png-24px/glyph/tool_keyclone.png) |tool-duplicatekeyframe|09004 |GTK+
 0xe019 |![](./output/png-24px/glyph/tool_keyproperties.png) |tool-keysettings|09005 |GTK+
 xxxxxx | | __TOOLS : Parameter Window__ |
-0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-valuenode-link|10001 |![](./resources/synfig-icons/valuenode_icon.png)
-0xe008 |![](./output/png-24px/glyph/still-figure.png) |tool-valuenode-forbidanimation |10002 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
+0xe008 |![](./output/png-24px/glyph/still-figure.png) |tool-valuenode-forbidanimation |10001 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-convert |10002 |GTK+
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-connect |10003 |GTK+
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-disconnect |10004 |GTK+
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-export value|10005 |GTK
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-rename valuenode|10006 |GTK
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-insert item|10008 |GTK+
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-remove item(smart)|10009 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-make activepoint as on|10010 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-make activepoint as off|10011 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-merge tangents|10012 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-merge tangents' radius|10013 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-split tangents|10014 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-split tangents' angle|10015 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-rotate order|10016 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-loop|10017 |NA
+0xe008 |![](./output/png-24px/glyph/synfig.png) |tool-valuenode-unloop|10018 |NA
+0xe019 |![](./output/png-24px/glyph/tool_link.png) |tool-valuenode-link (_only on canvasview by selecting multipe ducks_) |10019 |GTK+
  | | __TOOLS : Layer Window__ |
 0xe019 |![](./output/png-24px/glyph/tool_increase.png) |tool-increaseammount|11001 |GTK+
 0xe019 |![](./output/png-24px/glyph/tool_decrease.png) |tool-decreaseamount |11002 |GTK+
