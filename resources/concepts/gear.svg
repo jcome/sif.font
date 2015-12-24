@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2988"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gear.svg">
+  <defs
+     id="defs2990" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.71111111"
+     inkscape:cx="500"
+     inkscape:cy="500"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="16"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="50,760"
+       id="guide2996" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="950,808.57143"
+       id="guide3000" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="648.57143,950"
+       id="guide3002" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="605.71429,50"
+       id="guide3004" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,645.71429"
+       id="guide3006" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="900,480"
+       id="guide3008" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="531.42857,900"
+       id="guide3010" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="648.57143,100"
+       id="guide3012" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3014"
+       empspacing="50"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       color="#0400ff"
+       opacity="0.02745098"
+       empcolor="#f00059"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:128;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.85000002;stroke-opacity:1"
+       d="M 450 50 L 450 153.93945 A 350 350 0 0 0 370.17188 175.13086 L 318.30078 85.289062 L 231.69922 135.28906 L 283.52539 225.05664 A 350 350 0 0 0 225.33789 283.68945 L 135.28906 231.69922 L 85.289062 318.30078 L 175.24414 370.23633 A 350 350 0 0 0 154.02344 450 L 50 450 L 50 550 L 153.93945 550 A 350 350 0 0 0 175.13086 629.82812 L 85.289062 681.69922 L 135.28906 768.30078 L 225.05664 716.47461 A 350 350 0 0 0 283.68945 774.66211 L 231.69922 864.71094 L 318.30078 914.71094 L 370.23633 824.75586 A 350 350 0 0 0 450 845.97656 L 450 950 L 550 950 L 550 846.06055 A 350 350 0 0 0 629.82812 824.86914 L 681.69922 914.71094 L 768.30078 864.71094 L 716.47461 774.94336 A 350 350 0 0 0 774.66211 716.31055 L 864.71094 768.30078 L 914.71094 681.69922 L 824.75586 629.76367 A 350 350 0 0 0 845.97656 550 L 950 550 L 950 450 L 846.06055 450 A 350 350 0 0 0 824.86914 370.17188 L 914.71094 318.30078 L 864.71094 231.69922 L 774.94336 283.52539 A 350 350 0 0 0 716.31055 225.33789 L 768.30078 135.28906 L 681.69922 85.289062 L 629.76367 175.24414 A 350 350 0 0 0 550 154.02344 L 550 50 L 450 50 z M 500 400 A 100 100 0 0 1 600 500 A 100 100 0 0 1 500 600 A 100 100 0 0 1 400 500 A 100 100 0 0 1 500 400 z "
+       transform="translate(0,52.362183)"
+       id="path4689" />
+  </g>
+</svg>
