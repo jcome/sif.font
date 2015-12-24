@@ -164,7 +164,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/glyphs/key-1.png) |tool-keysettings|09005 |GTK+
 xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/still-figure.png) |tool-valuenode-forbidanimation |10001 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-convert |10002 |GTK+
+0xe008 |![](./output/glyphs/convert-1.png) |tool-valuenode-convert |10002 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-connect |10003 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-disconnect |10004 |GTK+
 0xe008 |![](./output/glyphs/share-1.png) |tool-valuenode-export value|10005 |GTK
