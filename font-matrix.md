@@ -165,9 +165,10 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/still-figure.png) |tool-valuenode-forbidanimation |10001 |![](./resources/synfig-icons/valuenode_forbidanimation_icon.png)
 0xe008 |![](./output/glyphs/convert-1.png) |tool-valuenode-convert |10002 |GTK+
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-connect |10003 |GTK+
+0xe008 |![](./output/glyphs/chain.png) |tool-valuenode-connect |10003 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-disconnect |10004 |GTK+
 0xe008 |![](./output/glyphs/share-1.png) |tool-valuenode-export value|10005 |GTK
+0xe008 |![](./output/glyphs/share-6.png) |tool-valuenode-unexport value|10005 |GTK
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-rename valuenode|10006 |GTK
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item|10008 |GTK+
@@ -181,7 +182,7 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-rotate order|10016 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-loop|10017 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-unloop|10018 |NA
-0xe019 |![](./output/glyphs/chain.png) |tool-valuenode-link (_only on canvasview by selecting multipe ducks_) |10019 |GTK+
+0xe019 |![](./output/glyphs/chain.png) |tool-valuenode-link (_only on canvasview by selecting multiple ducks, or a common parameter having mutiple layer selected, use same glyph with **connect**_) |10019 |GTK+
  | | __TOOLS : Layer Window__ |
 0xe019 |![](./output/glyphs/increase.png) |tool-increaseammount|11001 |GTK+
 0xe019 |![](./output/glyphs/decrease.png) |tool-decreaseamount |11002 |GTK+
@@ -206,3 +207,4 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe019 |![](./output/glyphs/floppy.png) |tool-save |12002 |![](./resources/synfig-icons/action_doc_save_icon.png)
 0xe019 |![](./output/glyphs/floppies.png) |tool-saveall |12003 |![](./resources/synfig-icons/action_doc_saveall_icon.png)
 0xe019 |![](./output/glyphs/floppy-pencil.png) |tool-saveas |12004 |![](./resources/synfig-icons/action_doc_saveas_icon.png)
+0xe019 |![](./output/glyphs/folder-2.png) |tool-open |12004 |![](./resources/synfig-icons/action_doc_open_icon.png)
