@@ -141,7 +141,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/glyphs/lock-5.png) |tool-unlockpastkeyframe |08013 |![](./resources/synfig-icons/keyframe_lock_past_off_icon.png)
 0xe019 |![](./output/glyphs/lock-2.png) |tool-lockfuturekeyframe |08014 |![](./resources/synfig-icons/keyframe_lock_future_on_icon.png)
 0xe019 |![](./output/glyphs/lock-3.png) |tool-unlockfuturekeyframe |08015 |![](./resources/synfig-icons/keyframe_lock_future_off_icon.png)
-0xe019 |![](./output/glyphs/onion.png) |tool-onionskin |08016 |![](./resources/synfig-icons/onion_skin_icon.png)
+0xe019 |![](./output/glyphs/onion.png)![](./output/glyphs/light.png) |tool-onionskin |08016 |![](./resources/synfig-icons/onion_skin_icon.png)
 0xe019 |![](./output/glyphs/gird.png) |tool-gird |08017 |![](./resources/synfig-icons/show_grid_icon.png)
 0xe019 |![](./output/glyphs/magnet-gird.png) |tool-snapgird |08018 |![](./resources/synfig-icons/snap_grid_icon.png)
 0xe019 |![](./output/glyphs/guideline.png) |tool-guideline |08019 |![](./resources/synfig-icons/show_guideline_icon.png)
