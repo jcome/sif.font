@@ -14,7 +14,7 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_layerpaste.svg"
+   sodipodi:docname="pasteboard.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_layerpaste.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19770885"
-     inkscape:cx="-904.30127"
-     inkscape:cy="450.66365"
+     inkscape:zoom="0.48000838"
+     inkscape:cx="375.2124"
+     inkscape:cy="560.91397"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      inkscape:window-width="1440"
      inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -54,7 +54,7 @@
        position="648.57143,950"
        id="guide3002" />
     <sodipodi:guide
-       orientation="0,1"
+       orientation="1.2246468e-16,-1"
        position="605.71429,50"
        id="guide3004" />
     <sodipodi:guide
@@ -105,8 +105,9 @@
      transform="translate(0,-52.362183)"
      style="display:inline">
     <path
-       id="path4845"
+       id="path4145"
+       transform="translate(0,52.362183)"
        style="fill:#000000;fill-rule:evenodd;stroke:none"
-       d="m 767.57743,789.99354 0,190.10409 190.10409,-190.10409 z m -343.74987,-518.22897 0,708.33306 300.78113,0 0,-233.07074 233.07283,0 0,-475.26232 z M 213.54183,52.363278 l -26.04166,62.499972 -148.437443,0 0,770.83305 342.447783,0 0,-656.24976 277.34365,0 0,-114.58329 -151.04161,0 -23.43749,-62.499972 -270.83323,0 z m 54.68748,40.364568 162.76035,0 7.8125,20.833324 -7.8125,22.13541 -162.76035,0 -9.11458,-22.13541 9.11458,-20.833324 z" />
+       d="M 213.54102,0.00195313 187.5,62.501953 l -148.4375,0 0,770.832027 342.44727,0 0,-49.99804 -292.44727,0 0,-670.83399 131.77148,0 26.04102,-62.499997 202.84961,0 23.4375,62.499997 135.69141,0 0,64.58203 50,0 0,-114.582027 -151.04102,0 -23.4375,-62.49999987 -270.83398,0 z M 423.82756,219.40239 l 0,708.33306 300.78113,0 0,-233.07074 233.07283,0 0,-475.26232 z m 343.74987,518.22897 0,190.10409 190.10409,-190.10409 z" />
   </g>
 </svg>
