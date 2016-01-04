@@ -110,7 +110,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/glyphs/magnifier-1.png) |toolbox-zoom |06019 |![](./resources/synfig-icons/tool_zoom_icon.png)
 0xe019 |![](./output/glyphs/scissors.png) |toolbox-cutout |06020 |![](./resources/synfig-icons/tool_cutout_icon.png)
  | | __PANELS__ |
-0xe019 |![](./output/glyphs/synfig-1.png) |panel-toolbox |07001 |![](./resources/synfig-icons/about_icon.png)
+0xe019 |![](./output/glyphs/tool-box.png) |panel-toolbox |07001 |![](./resources/synfig-icons/about_icon.png)
 0xe019 |![](./output/glyphs/mixing-console.png) |panel-parameters |07002 |![](./resources/synfig-icons/parameters_icon.png)
 0xe019 |![](./output/glyphs/keys.png) |panel-keyframes |07003 |![](./resources/synfig-icons/keyframe_icon.png)
 0xe019 |![](./output/glyphs/clock-1.png) |panel-timetrack |07004 |![](./resources/synfig-icons/time_track_icon.png)
