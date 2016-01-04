@@ -147,7 +147,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/glyphs/guideline.png) |tool-guideline |08019 |![](./resources/synfig-icons/show_guideline_icon.png)
 0xe019 |![](./output/glyphs/magnet-guideline.png) |tool-snapguideline |08020 |![](./resources/synfig-icons/snap_guideline_icon.png)
 0xe019 |![](./output/glyphs/audio-jack.png) |tool-jackaudio |08021 |![](./resources/synfig-icons/jack_icon.png)
-0xe019 |![](./output/glyphs/projector.png) |tool-preview |08022 |![](./resources/synfig-icons/preview_options_icon.png)
+0xe019 |![](./output/glyphs/projector-1.png) |tool-preview |08022 |![](./resources/synfig-icons/preview_options_icon.png)
 0xe019 |![](./output/glyphs/clapperboard.png) |tool-render |08023 |![](./resources/synfig-icons/render_options_icon.png)
 0xe019 |![](./output/glyphs/walking-figure.png) |tool-animatemodeon|08024 |![](./resources/synfig-icons/animate_mode_on_icon.png)
 0xe019 |![](./output/glyphs/still-figure.png) |tool-animatemodeoff|08025 |![](./resources/synfig-icons/animate_mode_off_icon.png)
@@ -169,7 +169,7 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/chain-broken.png) |tool-valuenode-disconnect |10004 |GTK+
 0xe008 |![](./output/glyphs/share-1.png) |tool-valuenode-export value|10005 |GTK
 0xe008 |![](./output/glyphs/share-6.png) |tool-valuenode-unexport value|10005 |GTK
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-rename valuenode|10006 |GTK
+0xe008 |![](./output/glyphs/input-text.png) |tool-valuenode-rename valuenode|10006 |GTK
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item|10008 |GTK+
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-remove item(smart)|10009 |NA
