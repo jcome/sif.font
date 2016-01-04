@@ -14,7 +14,7 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_decrease.svg"
+   sodipodi:docname="decrease.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_decrease.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.19770885"
-     inkscape:cx="385.47407"
+     inkscape:cx="-489.54999"
      inkscape:cy="268.57772"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -39,7 +39,7 @@
      inkscape:window-width="1440"
      inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -105,9 +105,8 @@
      transform="translate(0,-52.362183)"
      style="display:inline">
     <path
-       id="path4778"
-       d="m 501.30184,117.46762 c -240.04408,0 -436.197753,193.55618 -436.197753,433.59359 0,240.04157 196.153673,436.19775 436.197753,436.19775 240.04408,0 433.59359,-196.15618 433.59359,-436.19775 0,-240.03741 -193.54951,-433.59359 -433.59359,-433.59359 z m -304.68739,358.07278 627.60394,0 0,145.83328 -627.60394,0 0,-145.83328 z"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
+       d="m 196.61445,475.5404 627.60394,0 0,145.83328 -627.60394,0 0,-145.83328 z"
+       id="path4778" />
   </g>
 </svg>

@@ -14,8 +14,8 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_increase.svg"
-   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_increase.png"
+   sodipodi:docname="increase.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/output/glyphs/increase.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19770885"
-     inkscape:cx="-904.30127"
-     inkscape:cy="450.66365"
+     inkscape:zoom="0.52029529"
+     inkscape:cx="499.99977"
+     inkscape:cy="499.99889"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,7 @@
      inkscape:window-width="1440"
      inkscape:window-height="826"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -105,9 +105,8 @@
      transform="translate(0,-52.362183)"
      style="display:inline">
     <path
-       id="path4790"
-       d="m 501.30185,117.46762 c -240.04408,0 -436.197752,193.55618 -436.197752,433.59359 0,240.04157 196.153672,436.19775 436.197752,436.19775 240.04408,0 433.59359,-196.15618 433.59359,-436.19775 0,-240.03741 -193.54951,-433.59359 -433.59359,-433.59359 z m -70.31247,131.51037 144.53119,0 0,226.56241 247.39574,0 0,144.5312 -247.39574,0 0,255.20824 -144.53119,0 0,-255.20824 -234.37491,0 0,-144.5312 234.37491,0 0,-226.56241 z"
        style="fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
+       d="m 430.98938,248.97799 144.53119,0 0,226.56241 247.39574,0 0,144.5312 -247.39574,0 0,255.20824 -144.53119,0 0,-255.20824 -234.37491,0 0,-144.5312 234.37491,0 0,-226.56241 z"
+       id="path4790" />
   </g>
 </svg>
