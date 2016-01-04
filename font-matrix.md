@@ -170,9 +170,9 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/share-1.png) |tool-valuenode-export value|10005 |GTK
 0xe008 |![](./output/glyphs/share-6.png) |tool-valuenode-unexport value|10005 |GTK
 0xe008 |![](./output/glyphs/input-text.png) |tool-valuenode-rename valuenode|10006 |GTK
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-insert item|10008 |GTK+
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-remove item(smart)|10009 |NA
+0xe008 |![](./output/glyphs/add.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
+0xe008 |![](./output/glyphs/add.png) |tool-valuenode-insert item|10008 |GTK+
+0xe008 |![](./output/glyphs/minus.png) |tool-valuenode-remove item(smart)|10009 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-make activepoint as on|10010 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-make activepoint as off|10011 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents|10012 |NA
