@@ -177,12 +177,14 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-make activepoint as off|10011 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents|10012 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents' radius|10013 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-split tangents|10014 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-split tangents' angle|10015 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-rotate order|10016 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-loop|10017 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-unloop|10018 |NA
-0xe019 |![](./output/glyphs/chain.png) |tool-valuenode-link (_only on canvasview by selecting multiple ducks, or a common parameter having mutiple layer selected, use same glyph with **connect**_) |10019 |GTK+
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents' angle|10014 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-split tangents|10015 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-split tangents' radius|10016 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-split tangents' angle|10017 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-rotate order|10018 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-loop|10019 |NA
+0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-unloop|10020 |NA
+0xe019 |![](./output/glyphs/chain.png) |tool-valuenode-link (_only on canvasview by selecting multiple ducks, or a common parameter having mutiple layer selected, use same glyph with **connect**_) |10021 |GTK+
  | | __TOOLS : Layer Window__ |
 0xe019 |![](./output/glyphs/increase.png) |tool-increaseammount|11001 |GTK+
 0xe019 |![](./output/glyphs/decrease.png) |tool-decreaseamount |11002 |GTK+
