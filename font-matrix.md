@@ -173,8 +173,8 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe008 |![](./output/glyphs/add-1.png) |tool-valuenode-insert item & keep shape|10007 |GTK+
 0xe008 |![](./output/glyphs/add.png) |tool-valuenode-insert item|10008 |GTK+
 0xe008 |![](./output/glyphs/minus.png) |tool-valuenode-remove item(smart)|10009 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-make activepoint as on|10010 |NA
-0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-make activepoint as off|10011 |NA
+0xe008 |![](./output/glyphs/activepoint-on.png) |tool-valuenode-make activepoint as on|10010 |NA
+0xe008 |![](./output/glyphs/activepoint-off.png) |tool-valuenode-make activepoint as off|10011 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents|10012 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents' radius|10013 |NA
 0xe008 |![](./output/glyphs/synfig.png) |tool-valuenode-merge tangents' angle|10014 |NA

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2988"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="activepoint-off.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/output/glyphs/activepoint-off.png"
+   inkscape:export-xdpi="2.1600001"
+   inkscape:export-ydpi="2.1600001">
+  <defs
+     id="defs2990">
+    <inkscape:path-effect
+       fuse_tolerance="0"
+       vertical_pattern="false"
+       prop_units="false"
+       tang_offset="0"
+       normal_offset="0"
+       spacing="0"
+       scale_y_rel="false"
+       prop_scale="1"
+       copytype="single_stretched"
+       pattern="m 0,52.362183 1,0"
+       is_visible="true"
+       id="path-effect4180"
+       effect="skeletal" />
+    <inkscape:path-effect
+       is_visible="true"
+       id="path-effect4178"
+       effect="spiro" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect4174"
+       is_visible="true"
+       pattern="m 0,52.362183 1,0"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4172"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.29658053"
+     inkscape:cx="240.82932"
+     inkscape:cy="580.46041"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="826"
+     inkscape:window-x="-170"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="50,760"
+       id="guide2996" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="950,808.57143"
+       id="guide3000" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="648.57143,950"
+       id="guide3002" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="605.71429,50"
+       id="guide3004" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="100,645.71429"
+       id="guide3006" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="900,480"
+       id="guide3008" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="531.42857,900"
+       id="guide3010" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="648.57143,100"
+       id="guide3012" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3014"
+       empspacing="50"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false"
+       color="#0400ff"
+       opacity="0.02745098"
+       empcolor="#f00059"
+       empopacity="0.25098039" />
+    <sodipodi:guide
+       position="500.97326,234.49812"
+       orientation="0,1"
+       id="guide4163" />
+    <sodipodi:guide
+       position="358.14258,392.2514"
+       orientation="1,0"
+       id="guide4165" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2993">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)"
+     style="display:inline">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:100;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.85000002;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 932.76953 4.8789062 L 749.76758 187.95508 C 681.23936 132.96315 594.34313 100 500 100 C 279.70607 100 99.998047 279.70807 99.998047 500.00195 C 99.998047 594.40284 133.00016 681.3477 188.05273 749.89453 L 4.0566406 933.96484 L 39.419922 969.3125 L 968.13281 40.226562 L 932.76953 4.8789062 z M 500 204.75391 C 565.87773 204.75391 626.54354 226.0784 675.5332 262.21875 L 262.28711 675.63086 C 226.10339 626.62509 204.75195 565.9231 204.75195 500.00195 C 204.75195 336.32081 336.31889 204.75391 500 204.75391 z M 819.42578 259.71875 L 744.79688 334.37695 C 776.67084 381.53513 795.24805 438.50012 795.24805 500.00195 C 795.24805 663.68308 663.6811 795.24609 500 795.24609 C 438.54169 795.24609 381.6133 776.69519 334.47461 744.86328 L 259.8457 819.52344 C 326.80511 870.01099 410.01452 900 500 900 C 720.29385 900 900.00195 720.29582 900.00195 500.00195 C 900.00195 409.95852 869.97306 326.70034 819.42578 259.71875 z "
+       transform="translate(0,52.362183)"
+       id="path4171" />
+  </g>
+</svg>
