@@ -197,8 +197,8 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe019 |![](./output/glyphs/clapperboard.png) |tool-disablerender |11009 |NA
 0xe019 |![](./output/glyphs/lock.png) |tool-locklayer |11010 |NA
 0xe019 |![](./output/glyphs/lock-1.png) |tool-unlocklayer |11011 |NA
-0xe019 |![](./output/glyphs/eye-open.png) |tool-showlayer |11012 |NA
-0xe019 |![](./output/glyphs/eye-close.png) |tool-hidelayer |11013 |NA
+0xe019 |![](./output/glyphs/eye-open-1.png) |tool-showlayer |11012 |NA
+0xe019 |![](./output/glyphs/eye-close-1.png) |tool-hidelayer |11013 |NA
 0xe019 |![](./output/glyphs/trash-bin.png) |tool-deletelayer |11014 |GTK+
 0xe019 |![](./output/glyphs/folder-3.png) |tool-selectschildrenlayers |11015 |![](./resources/synfig-icons/select_all_child_layers_icon.png)
 0xe019 |![](./output/glyphs/paper-3.png) |tool-duplicatelayer |11016 |![](./resources/synfig-icons/duplicate_icon.png)
