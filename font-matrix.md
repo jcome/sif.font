@@ -190,7 +190,7 @@ xxxxxx | | __TOOLS : Parameter Window__ |
 0xe019 |![](./output/glyphs/decrease.png) |tool-decreaseamount |11002 |GTK+
 0xe019 |![](./output/glyphs/paper-4.png) |tool-addlayertoset |11003 |![](./resources/synfig-icons/action_add_to_set_icon.png)
 0xe019 |![](./output/glyphs/paper-5.png) |tool-removelayerfromset |11004 |![](./resources/synfig-icons/action_remove_from_set_icon.png)
-0xe019 |![](./output/glyphs/paper-2.png) |tool-layerdescription |11005 |![](./resources/synfig-icons/action_set_layer_description_icon.png)
+0xe019 |![](./output/glyphs/paper-10.png) |tool-layerdescription |11005 |![](./resources/synfig-icons/action_set_layer_description_icon.png)
 0xe019 |![](./output/glyphs/paper-1.png) |tool-copylayer |11006 |GTK+
 0xe019 |![](./output/glyphs/pasteboard.png) |tool-pastelayer |11007 |GTK+
 0xe019 |![](./output/glyphs/clapperboard-1.png) |tool-enablerender |11008 |NA
