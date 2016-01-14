@@ -14,8 +14,8 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_keyremove.svg"
-   inkscape:export-filename="/Users/chyu/Source/sif.font/resources/concepts/tool_keyremove.png"
+   sodipodi:docname="key-3.svg"
+   inkscape:export-filename="/Users/chyu/Source/sif.font/output/glyphs/key-3.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54306294"
-     inkscape:cx="563.96059"
-     inkscape:cy="437.51203"
+     inkscape:zoom="0.17250486"
+     inkscape:cx="-1505.4856"
+     inkscape:cy="499.78585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1440"
      inkscape:window-height="826"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-x="75"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0">
     <sodipodi:guide
        orientation="1,0"
        position="50,760"
@@ -109,10 +109,16 @@
        transform="matrix(-65.935161,0,0,65.935161,29017.268,-60231.92)"
        id="g10712" />
     <path
-       id="path4985"
+       id="path4146"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 382.81258,88.821273 276.04177,150.01918 558.5938,639.60241 c -72.48707,73.30707 -94.58123,182.39121 -44.27083,269.53119 61.30374,106.1812 205.286,139.3271 320.31244,72.91665 C 949.66185,915.63982 993.59537,774.42946 932.29163,668.24824 879.96623,577.617 767.22042,542.01493 664.06252,574.49826 L 553.38546,384.39413 671.87502,316.68581 569.01046,139.60251 451.82298,207.31083 Z M 825.52082,729.44614 c 26.95091,45.2754 1.96167,126.00039 -48.17707,154.94788 -50.13832,28.9475 -128.22372,8.5275 -154.94788,-37.7604 -26.71917,-46.27875 -3.58733,-123.13951 46.87499,-151.04164 50.46232,-27.90213 129.29905,-11.42124 156.24996,33.85416 z m -784.995611,-99.59072 0,90.40898 361.635241,0 0,-90.40898 z"
+       d="m 642.00512,709.08216 c 30.11822,43.23316 10.9631,125.53788 -36.97824,157.99521 -47.94093,32.45732 -127.2862,17.67106 -157.25063,-26.58821 -29.95881,-44.25052 -12.3801,-122.56812 35.95871,-154.00589 48.33881,-31.43778 128.15193,-20.63426 158.27016,22.59889 z M 154.63778,101.74047 52.514437,170.41379 369.33888,638.54806 c -67.0617,78.30089 -81.30207,188.68529 -24.89165,272.00621 68.7367,101.52763 214.71991,124.29693 324.70514,49.83435 C 779.13751,885.92599 812.86511,741.93655 744.12841,640.4089 685.45858,553.74967 570.45635,526.29768 469.88421,566.07159 L 345.90172,384.36488 459.24843,308.36017 343.98917,139.08254 231.94122,214.99419 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 592.55273,187.60352 0,90.4082 361.63477,0 0,-90.4082 z"
+       transform="translate(0,52.362183)"
+       id="path4985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccszscccccczsszzccccc" />
+       sodipodi:nodetypes="ccccc" />
   </g>
 </svg>
