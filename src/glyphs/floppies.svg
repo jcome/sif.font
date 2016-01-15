@@ -14,7 +14,7 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_saveall.svg"
+   sodipodi:docname="floppies.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/output/png-24px/glyph/tool_saveall.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="225.78125"
-     inkscape:cy="500.00005"
+     inkscape:zoom="0.37902327"
+     inkscape:cx="500"
+     inkscape:cy="500.00003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -106,7 +106,7 @@
      style="display:inline">
     <g
        id="g8749"
-       transform="matrix(0.94472016,0,0,0.94472016,-48.749585,1531.4475)">
+       transform="matrix(0.94472016,0,0,-0.94472016,-48.749585,-426.7232)">
       <g
          id="g8721"
          transform="matrix(2.5572422,0,0,2.5572422,-480.34286,-2523.1118)" />

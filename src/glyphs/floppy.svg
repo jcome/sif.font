@@ -14,7 +14,7 @@
    id="svg2988"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="tool_save.svg"
+   sodipodi:docname="floppy.svg"
    inkscape:export-filename="/Users/chyu/Source/sif.font/output/png-24px/glyph/tool_save.png"
    inkscape:export-xdpi="2.1600001"
    inkscape:export-ydpi="2.1600001">
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="225.78125"
-     inkscape:cy="500.00005"
+     inkscape:zoom="0.39024388"
+     inkscape:cx="499.99909"
+     inkscape:cy="499.9997"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -107,7 +107,7 @@
     <path
        id="rect8584"
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.85000002;stroke-opacity:1"
-       d="m 613.4652,279.24776 80.0664,0 0,116.28233 -80.0664,0 z M 164.75888,142.36246 c -41.41691,0 -74.759798,33.34292 -74.759798,74.75981 l 0,670.48046 c 0,41.41689 33.342888,74.75978 74.759798,74.75978 l 670.48044,0 c 41.41686,0 74.75978,-33.34289 74.75978,-74.75978 l 0,-572.64456 -147.19337,-172.59571 -598.04685,0 z m 117.68162,94.76962 435.11914,0 c 18.51406,0 33.41993,14.9039 33.41993,33.4179 l 0,133.67781 c 0,18.51399 -14.90587,33.41788 -33.41993,33.41788 l -435.11914,0 c -18.51403,0 -33.41993,-14.90389 -33.41993,-33.41788 l 0,-133.67781 c 0,-18.514 14.9059,-33.4179 33.41993,-33.4179 z"
+       d="m 613.4652,825.47721 80.0664,0 0,-116.28233 -80.0664,0 z m -448.70632,136.8853 c -41.41691,0 -74.759798,-33.34292 -74.759798,-74.75981 l 0,-670.48046 c 0,-41.41689 33.342888,-74.75978 74.759798,-74.75978 l 670.48044,0 c 41.41686,0 74.75978,33.34289 74.75978,74.75978 l 0,572.64456 -147.19337,172.59571 -598.04685,0 z m 117.68162,-94.76962 435.11914,0 c 18.51406,0 33.41993,-14.9039 33.41993,-33.4179 l 0,-133.67781 c 0,-18.51399 -14.90587,-33.41788 -33.41993,-33.41788 l -435.11914,0 c -18.51403,0 -33.41993,14.90389 -33.41993,33.41788 l 0,133.67781 c 0,18.514 14.9059,33.4179 33.41993,33.4179 z"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
