@@ -124,7 +124,7 @@ Code   | Glyph | Icon Name  | Number | Synfig Icon | FIS Icon |
 0xe019 |![](./output/glyphs/synfig-1.png) |panel-tooloptions |07012 |![](./resources/synfig-icons/about_icon.png)
 0xe019 |![](./output/glyphs/history.png) |panel-history |07013 |![](./resources/synfig-icons/history_icon.png)
 0xe019 |![](./output/glyphs/paper.png) |panel-layers |07014 |![](./resources/synfig-icons/layer_icon.png)
-0xe019 |![](./output/glyphs/paper-9.png) |panel-layersets |07015 |![](./resources/synfig-icons/set_icon.png)
+0xe019 |![](./output/glyphs/papers-with-bookmark.png) |panel-layersets |07015 |![](./resources/synfig-icons/set_icon.png)
  | | __TOOLS : Canvas Window__ |
 0xe019 |![](./output/glyphs/play-seektobegin.png) |tool-seektobegin |08001 |![](./resources/synfig-icons/animate_seek_begin_icon.png)
 0xe019 |![](./output/glyphs/play-prevwaypoint.png) |tool-prevwaypoint |08002 |NA
